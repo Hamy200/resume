@@ -8,10 +8,9 @@
                 <div class="title mb-3">{{ site.tagline }}</div>
                 <ul class="list-unstyled">
                     <li class="mb-2"><a href="mailto:{{ header.email }}"><i class="far fa-envelope fa-fw mr-2"
-                                data-fa-transform="grow-3"></i>{{ header.email }}</a></li>
-{% if header.phone %}                    <li><a href="tel:{{ header.phone }}"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ header.phone }}</a>  {% endif %}
+                                data-fa-transform="grow-3"></i>{{ header.email }}</a>
+{% if header.phone %}                    <li><a href="tel:{{ header.phone }}"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ header.phone }}</a> </li> {% endif %}
                        {% if header.website %} &nbsp;&nbsp;&nbsp;
-                 
                         <a href="{{ header.website }}">&nbsp;&nbsp;
                                 <i class="fas fa-globe"></i>
                             {{ header.website }}
