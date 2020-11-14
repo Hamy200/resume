@@ -142,9 +142,9 @@ skills:
       - name: Splunk Certified Architect
       - name: Azure Monitor, Azure Data Explorer
       - name: Fluent-bit log plugins & filters
+      - name: DataDog, Prometheus/Grafana
       - name: SIEMs - Azure Sentinel, Splunk ES
-      - name: Stacks - DataDog, Prometheus/Grafana
-  - category: Web Application Delivery
+  - category: Application Delivery
     tools:
       - name: Cloud - Microsoft Azure
       - name: Infra - Linux, Kubernetes
@@ -155,9 +155,9 @@ skills:
     tools:
       - CISSP
       - Ceh 
-      - Agile - Kanban, Scrum
-      - Azure Kubernetes Service (AKS)
       - Docker
       - Pagerduty
-      - Windows
+      - Windows Apps
+      - Agile - Kanban, Scrum
+      - Azure Kubernetes Service (AKS)
       - Docs - Sphinx, PlantUML
