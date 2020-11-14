@@ -21,13 +21,6 @@ header:
 #  - idiom: English
 #    level: Native
 
-interests:
-  - name: 1. Health: Kung Fu, Tai Chi, Callisthenics
-    link:
-  - name: 2. Hobbies: Home Automation, DIY, Toastmasters
-    link:
-  - name: 3. Volunteering: Google Code Club, Fatimid Charity
-    link:
 
 summary: |
       20 years of Enterprise Infrastructure Experience, currently a VP at Morgan Stanley as an Azure Solutions Architect. 
