@@ -141,14 +141,14 @@ skills:
     tools:
       - name: Splunk Certified Architect
         level: 90%
-      - name: Azure: Monitor Log Analytics & Data Explorer
+      - name: Azure Monitor Log Analytics & Data Explorer
         level: 90%
+      - name: Fluent-bit Log plugins and filters
+        level: 70%
+      - name: SIEMs & Security Analytics (Azure Sentinel, Splunk ES)
+        level: 60%
       - name: PubSub Message Buses: Apache Kafka, Azure Eventhub, Kafka Connect
-        level: 98%
-      - name: Node.js
-        level: 95%
-      - name: HTML/CSS/SASS/LESS
-        level: 85%
+        level: 50%
   - category: Infrastructure
     tools:
       - name: Python/Django
