@@ -147,8 +147,8 @@ skills:
         level: 80%
       - name: Azure Sentinel & Splunk SIEMs
         level: 70%
-      - name: Apache Kafka, Azure Eventhub
-        level: 50%
+      - name: Prometheus, Grafana, Pagerduty
+        level: 60%
   - category: Infrastructure
     tools:
       - name: Python/Django
