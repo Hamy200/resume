@@ -10,6 +10,17 @@
                     <li class="mb-2"><a href="mailto:{{ header.email }}"><i class="far fa-envelope fa-fw mr-2"
                                 data-fa-transform="grow-3"></i>{{ header.email }}</a></li>
 {% if header.phone %}                    <li><a href="tel:{{ header.phone }}"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ header.phone }}</a></li>  {% endif %}
+                       {% if header.website %}
+                    <li class="mb-3">
+                        <a href="{{ header.website }}">
+                            <span class="fa-container text-center mr-2">
+                                <i class="fas fa-globe fa-2x"></i>
+                            </span>
+                            {{ header.website }}
+                        </a>
+                    </li>
+                {% endif %}
+       
                 </ul>
             </div>
             <!--//primary-info-->
@@ -19,7 +30,7 @@
                     <li class="mb-3">
                         <a href="https://linkedin.com/in/{{ header.linkedin }}">
                             <span class="fa-container text-center mr-2">
-                                <i class="fab fa-linkedin-in fa-fw"></i>
+                                <i class="fab fa-linkedin-in fa-2x"></i>
                             </span>
                             {{ header.linkedin }}
                         </a>
@@ -29,7 +40,7 @@
                     <li class="mb-3">
                         <a href="https://github.com/{{ header.github }}">
                             <span class="fa-container text-center mr-2">
-                                <i class="fab fa-github-alt fa-fw"></i>
+                                <i class="fab fa-github fa-2x"></i>
                             </span>
                             {{ header.github }}
                         </a>
@@ -69,7 +80,7 @@
                     <li class="mb-3">
                         <a href="https://twitter.com/{{ header.twitter }}">
                             <span class="fa-container text-center mr-2">
-                                <i class="fab fa-twitter fa-fw"></i>
+                                <i class="fab fa-twitter fa-2x"></i>
                             </span>
                             {{ header.twitter }}
                         </a>
@@ -92,16 +103,6 @@
                                 <i class="fab fa-goodreads-g fa-fw"></i>
                             </span>
                             {{ header.goodreads }}
-                        </a>
-                    </li>
-                {% endif %}
-                {% if header.website %}
-                    <li class="mb-3">
-                        <a href="{{ header.website }}">
-                            <span class="fa-container text-center mr-2">
-                                <i class="fas fa-globe"></i>
-                            </span>
-                            {{ header.website }}
                         </a>
                     </li>
                 {% endif %}
