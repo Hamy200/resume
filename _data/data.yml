@@ -21,6 +21,13 @@ header:
 #  - idiom: English
 #    level: Native
 
+interests:
+  - name: 1. Kung Fu, Tai Chi, Callisthenics
+    link:
+  - name: 2. Home Automation, DIY, Toastmasters
+    link:
+  - name: 3. Google Code Club, Fatimid Charity
+    link:
 
 summary: |
       20 years of Enterprise Infrastructure Experience, currently a VP at Morgan Stanley as an Azure Solutions Architect. 
@@ -33,7 +40,7 @@ education:
        Economics, Econometrics, Marketing & Management Modules. Two 6month work experiences in London and Germany.
   - degree: GCSEs & A-Levels
     university: Watford Boys Grammar School
-    time: 1198 - 1994
+    time: 1988 - 1994
     details: |
         Schooling.
 
