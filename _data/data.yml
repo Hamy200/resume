@@ -22,15 +22,15 @@ header:
 #    level: Native
 
 interests:
-  - name: 1. Kung Fu & Tai Chi
+  - name: 1. Health: Kung Fu; Tai Chi; Callisthenics
     link:
-  - name: 2. Home Automation  DIY
+  - name: 2. Hobbies: Home Automation; DIY; Toastmasters
     link:
-  - name: 3. Calisthenics & Health
+  - name: 3. Volunteering: Google Code Club; Fatimid Charity
     link:
 
 summary: |
-      20 years of Web, Linux & Infrastructure Experience, currently a VP at Morgan Stanley as an Azure Solutions Architect. <br>Role includes Observability Engineering (logs, metrics), SRE, DevOps and Team Lead using Agile techniques. <br>Previously held roles include: Cyber Security Infrastructure Lead Architect, Platform Engineering and Security Analytics. 
+      20 years of Web, Linux & Infrastructure Experience, currently a VP at Morgan Stanley as an Azure Solutions Architect. <br><br>Role includes Observability Engineering (logs, metrics), SRE, DevOps and Team Lead using Agile techniques. <br><br>Previously held roles include: Cyber Security Infrastructure Lead Architect, Platform Engineering and Security Analytics. 
 
 education:
   - degree: MSc in Computer Science
