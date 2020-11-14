@@ -146,8 +146,8 @@ skills:
       - name: Prometheus, Grafana
   - category: Application Delivery
     tools:
-      - name: Azure Cloud Services
-      - name: Linux Sysadmin
+      - name: Cloud - Microsoft Azure
+      - name: OS - Linux, Kubernetes
       - name: DevOps - Ansible, GIT 
       - name: WebProxies - Bluecoat, F5
   - category: Misc
@@ -162,5 +162,3 @@ skills:
       - Azure Kubernetes Service (AKS)
       - Pagerduty
       - Windows
-      - Akamai
-      - Cloudflare
