@@ -140,27 +140,24 @@ skills:
   - category: Observability
     tools:
       - name: Splunk Certified Architect
-      - name: Azure Monitor & Data Explorer
-      - name: Fluent-bit
-      - name: Azure Sentinel & Splunk SIEMs
-      - name: Prometheus, Grafana
-  - category: Application Delivery
+      - name: Azure Monitor, Azure Data Explorer
+      - name: Fluent-bit log plugins & filters
+      - name: SIEMs - Azure Sentinel, Splunk ES
+      - name: Stacks: DataDog, Prometheus, Grafana
+  - category: Web Application Delivery
     tools:
       - name: Cloud - Microsoft Azure
-      - name: OS - Linux, Kubernetes
+      - name: Infra - Linux, Kubernetes
       - name: DevOps - Ansible, GIT 
-      - name: WebProxies - Bluecoat, F5
+      - name: Proxies - Bluecoat, F5
+      - name: CDNs - Akamai, Cloudflare
   - category: others
     tools:
       - CISSP
-      - Agile 
-      - CeH
-      - Kanban
-      - Docker
-      - Jira
-      - PRINCE2
+      - Ceh 
+      - Agile - Kanban, Scrum
       - Azure Kubernetes Service (AKS)
+      - Docker
       - Pagerduty
       - Windows
-      - Akamai
-      - Cloudflare
+      - Docs - Sphinx, PlantUML
