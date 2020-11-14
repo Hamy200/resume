@@ -1,7 +1,7 @@
 {% assign header = site.data.data.header %}
 <header class="resume-header pt-4 pt-md-0">
     <div class="media flex-column flex-md-row">
-        <img class="mr-3 img-fluid picture mx-auto" src="assets/images/{{ header.avatar }}" alt="">
+{% if header.avatar %}         <img class="mr-3 img-fluid picture mx-auto" src="assets/images/{{ header.avatar }}" alt="">{% endif %}
         <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
             <div class="primary-info">
                 <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">{{ site.author }}</h1>
@@ -9,7 +9,7 @@
                 <ul class="list-unstyled">
                     <li class="mb-2"><a href="mailto:{{ header.email }}"><i class="far fa-envelope fa-fw mr-2"
                                 data-fa-transform="grow-3"></i>{{ header.email }}</a></li>
-                    <li><a href="tel:{{ header.phone }}"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ header.phone }}</a></li>
+{% if header.phone %}                    <li><a href="tel:{{ header.phone }}"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ header.phone }}</a></li>  {% endif %}
                 </ul>
             </div>
             <!--//primary-info-->
