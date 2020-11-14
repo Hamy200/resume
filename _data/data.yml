@@ -30,42 +30,29 @@ interests:
     link:
 
 summary: |
-      20 years of Web, Linux & Infrastructure Experience, currently a VP at Morgan Stanley as an Azure Solutions Architect. <br><br>Role includes Observability Engineering (logs, metrics), SRE, DevOps and Team Lead using Agile techniques. <br><br>Previously held roles include: Cyber Security Infrastructure Lead Architect, Platform Engineering and Security Analytics. 
+      20 years of Enterprise Infrastructure Experience, currently a VP at Morgan Stanley as an Azure Solutions Architect. 
+
+Field Of Study
+Dates attended or expected graduation1988 – 1994
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc (Hons) Economics
+    university: Brunel University London
+    time: 1994 - 1998
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+       Economics, Econometrics, Marketing & Management Modules. Two 6month work experiences in London and Germany.
+  - degree: GCSEs & A-Levels
+    university: Watford Boys Grammar School
+    time: 1198 - 1994
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 experiences:
   - role: Lead Developer
     time: 2018 - Present
     company: Startup Hub
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-      Donec pede justo, fringilla vel.
+      Role includes Observability Engineering (logs, metrics), SRE, DevOps and Team Lead using Agile techniques. Previously held roles include: Cyber Security Infrastructure Lead Architect, Platform Engineering and Security Analytics. 
+
         - Bullet point
         - Bullet point
     achievements:
@@ -150,59 +137,9 @@ experiences:
 #      Award desc goes here, ultricies nec, pellentesque
 #      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
 
-# Projects are not used in this template for now
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# Publications are not used in this template for now
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  - category: Frontend
+  - category: Observability
     tools:
       - name: Angular
         level: 98%
@@ -214,7 +151,7 @@ skills:
         level: 95%
       - name: HTML/CSS/SASS/LESS
         level: 85%
-  - category: Backend
+  - category: Infrastructure
     tools:
       - name: Python/Django
         level: 95%
