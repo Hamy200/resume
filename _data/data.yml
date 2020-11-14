@@ -143,7 +143,7 @@ skills:
       - name: Azure Monitor, Azure Data Explorer
       - name: Fluent-bit log plugins & filters
       - name: SIEMs - Azure Sentinel, Splunk ES
-      - name: Stacks: DataDog, Prometheus, Grafana
+      - name: Stacks - DataDog, Prometheus/Grafana
   - category: Web Application Delivery
     tools:
       - name: Cloud - Microsoft Azure
