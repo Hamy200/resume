@@ -22,11 +22,11 @@ header:
 #    level: Native
 
 interests:
-  - name: 1. Kung Fu, Tai Chi, Callisthenics
+  - name: Health - Kung Fu, Tai Chi, Callisthenics
     link:
-  - name: 2. Home Automation, DIY, Toastmasters
+  - name: Hobbies - Home Automation, DIY, Toastmasters
     link:
-  - name: 3. Google Code Club, Fatimid Charity
+  - name: Volunteering - Google Code Club, Fatimid Charity
     link:
 
 summary: |
@@ -140,7 +140,7 @@ skills:
   - category: Observability
     tools:
       - name: Angular
-        level: 98%
+        level: 
       - name: React
         level: 98%
       - name: JavaScript
