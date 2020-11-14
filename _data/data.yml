@@ -141,16 +141,16 @@ skills:
     tools:
       - name: Splunk Certified Architect
       - name: Azure Monitor, Azure Data Explorer
-      - name: Fluent-bit log plugins & filters
-      - name: DataDog, Prometheus/Grafana
-      - name: SIEMs - Azure Sentinel, Splunk ES
+      - name: Fluent-bit logging plugins & filters
+      - name: DataDog SaaS, Prometheus/Grafana IaaS
+      - name: Azure Sentinel, Splunk ES SIEMs
   - category: Application Delivery
     tools:
-      - name: Cloud - Microsoft Azure
-      - name: Infra - Linux, Kubernetes
-      - name: DevOps - Ansible, GIT, CI/CD
-      - name: Proxies - Bluecoat, F5
-      - name: CDNs - Akamai, Cloudflare
+      - name: Microsoft Azure Cloud
+      - name: Linux Admim, Azure Kubernetes
+      - name: DevOps Ansible, GIT, CI/CD
+      - name: F5, Bluecoat Web Proxies
+      - name: Akamai, Cloudflare CDNs
   - category: others
     tools:
       - CISSP
