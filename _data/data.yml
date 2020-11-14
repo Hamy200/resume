@@ -140,9 +140,9 @@ skills:
   - category: Observability
     tools:
       - name: Angular
-        level: 
+#        level: 
       - name: React
-        level: 98%
+#        level: 98%
       - name: JavaScript
         level: 98%
       - name: Node.js
