@@ -150,7 +150,7 @@ skills:
       - name: OS - Linux, Kubernetes
       - name: DevOps - Ansible, GIT 
       - name: WebProxies - Bluecoat, F5
-  - category: Misc
+  - category: others
     tools:
       - CISSP
       - Agile 
@@ -162,3 +162,5 @@ skills:
       - Azure Kubernetes Service (AKS)
       - Pagerduty
       - Windows
+      - Akamai
+      - Cloudflare
