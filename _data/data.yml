@@ -147,26 +147,29 @@ skills:
         level: 80%
       - name: Azure Sentinel & Splunk SIEMs
         level: 70%
-      - name: Prometheus, Grafana, Pagerduty
+      - name: Prometheus, Grafana
         level: 60%
   - category: Infrastructure
     tools:
-      - name: Python/Django
-        level: 95%
-      - name: Ruby/Rails
-        level: 98%
-      - name: PHP
-        level: 87%
-      - name: WordPress/Shopify
-        level: 92%
+      - name: Linux
+        level: 90%
+      - name: Azure
+        level: 60%
+      - name: DevOps - Ansible, GIT 
+        level: 70%
+      - name: Python, Perl, Bash
+        level: 60%
   - category: others
     tools:
-      - DevOps
-      - Code Review
-      - Git
-      - Unit Testing
-      - Wireframing
-      - Sketch
-      - Balsamiq
-      - WordPress
-      - Shopify
+      - CISSP
+      - CeH
+      - Agile
+      - Kanban
+      - Docker
+      - Jira
+      - Bluecoat
+      - Azure Kubernetes Service (AKS)
+      - Pagerduty
+      - F5
+      - Akamai
+      - Cloudflare
