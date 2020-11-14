@@ -30,7 +30,7 @@ interests:
     link:
 
 summary: |
-      20 years of Enterprise Infrastructure Experience. VP at Morgan Stanley as an Azure Solutions Architect with specialities in Observability (logs, metrics) and Application Delivery.
+      20 years of Enterprise Infrastructure Experience. VP at Morgan Stanley as an Azure Solutions Architect
 
 education:
   - degree: BSc (Hons) Economics
@@ -149,7 +149,7 @@ skills:
         level: 70%
       - name: Prometheus, Grafana
         level: 60%
-  - category: Infrastructure
+  - category: Application Delivery
     tools:
       - name: Linux
         level: 90%
