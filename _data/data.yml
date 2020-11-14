@@ -139,11 +139,11 @@ experiences:
 skills:
   - category: Observability
     tools:
-      - name: Angular
-#        level: 
-      - name: React
-#        level: 98%
-      - name: JavaScript
+      - name: Splunk Certified Architect
+        level: 90%
+      - name: Azure: Monitor Log Analytics & Data Explorer
+        level: 90%
+      - name: PubSub Message Buses: Apache Kafka, Azure Eventhub, Kafka Connect
         level: 98%
       - name: Node.js
         level: 95%
