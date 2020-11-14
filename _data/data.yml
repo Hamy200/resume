@@ -148,7 +148,7 @@ skills:
     tools:
       - name: Cloud - Microsoft Azure
       - name: Infra - Linux, Kubernetes
-      - name: DevOps - Ansible, GIT 
+      - name: DevOps - Ansible, GIT, CI/CD
       - name: Proxies - Bluecoat, F5
       - name: CDNs - Akamai, Cloudflare
   - category: others
