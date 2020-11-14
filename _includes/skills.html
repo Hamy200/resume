@@ -7,10 +7,10 @@
         {% if skill.category != "others" %}
         <div class="resume-skill-item">
             <h4 class="resume-skills-cat font-weight-bold">{{ skill.category }}</h4>
-            <ul class="list-inline mb-4">
+            <ul class="list-unstyled mb-3">
                 {% for tool in skill.tools %}
                 <li class="mb-2">
-                    <div class="resume-skill-name">{{ tool.name }}</div>
+                    <div class="resume-skill-name">&nbsp;{{ tool.name }}</div>
                 </li>
                 {% endfor %}
             </ul>
