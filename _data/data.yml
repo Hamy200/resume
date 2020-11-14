@@ -147,7 +147,7 @@ skills:
         level: 70%
       - name: SIEMs & Security Analytics (Azure Sentinel, Splunk ES)
         level: 60%
-      - name: PubSub Message Buses: Apache Kafka, Azure Eventhub, Kafka Connect
+      - name: Apache Kafka, Azure Eventhub, Kafka Connect
         level: 50%
   - category: Infrastructure
     tools:
