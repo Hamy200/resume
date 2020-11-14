@@ -143,7 +143,7 @@ skills:
         level: 90%
       - name: Azure Monitor Log Analytics & Data Explorer
         level: 90%
-      - name: Fluent-bit Log plugins and filters
+      - name: Fluent-bit config & tuning
         level: 70%
       - name: SIEMs & Security Analytics (Azure Sentinel, Splunk ES)
         level: 60%
