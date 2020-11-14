@@ -140,36 +140,27 @@ skills:
   - category: Observability
     tools:
       - name: Splunk Certified Architect
-        level: 90%
       - name: Azure Monitor & Data Explorer
-        level: 90%
       - name: Fluent-bit
-        level: 80%
       - name: Azure Sentinel & Splunk SIEMs
-        level: 70%
       - name: Prometheus, Grafana
-        level: 60%
   - category: Application Delivery
     tools:
-      - name: Linux
-        level: 90%
-      - name: Azure
-        level: 60%
+      - name: Azure Cloud Services
+      - name: Linux Sysadmin
       - name: DevOps - Ansible, GIT 
-        level: 70%
-      - name: Python, Perl, Bash
-        level: 60%
-  - category: others
+      - name: WebProxies - Bluecoat, F5
+  - category: Misc
     tools:
       - CISSP
+      - Agile 
       - CeH
-      - Agile
       - Kanban
       - Docker
       - Jira
-      - Bluecoat
+      - PRINCE2
       - Azure Kubernetes Service (AKS)
       - Pagerduty
-      - F5
+      - Windows Apps
       - Akamai
       - Cloudflare
