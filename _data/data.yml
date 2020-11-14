@@ -8,7 +8,7 @@ header:
   email: kash@chowdhree.com
   phone: 0123 456 78900
   website: https://kash.chowdhree.com
-  linkedin: kash-chowdhree-34a8028
+  linkedin: kash-chowdhree
   github: kchowdhree
   gitlab:
   bitbucket:
@@ -22,20 +22,23 @@ header:
 #    level: Native
 
 interests:
-  - name: Climbing
+  - name: Kung Fu, Tai Chi
     link:
-  - name: Snowboarding
+  - name: Home Automation, DIY
     link:
-  - name: Cooking
+  - name: Calisthenics, Health
     link:
 
 summary: |
-  Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
-  Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
+o   20yrs Technology Experience
+o	VP at Morgan Stanley
+o	Azure Solutions Architect
+o	Big Data Engineer
+o	Platform Engineer 
+o	SRE & DevOps 
+o	Cyber Security & Analytics
+o	Team Lead
+o	Agile Delivery
 
 education:
   - degree: MSc in Computer Science
