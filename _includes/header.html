@@ -12,10 +12,8 @@
 {% if header.phone %}                    <li><a href="tel:{{ header.phone }}"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ header.phone }}</a></li>  {% endif %}
                        {% if header.website %} &nbsp;&nbsp;&nbsp;
                  
-                        <a href="{{ header.website }}">
-                            <span class="fa-container text-center mr-2">
+                        <a href="{{ header.website }}">&nbsp;&nbsp;
                                 <i class="fas fa-globe"></i>
-                            </span>
                             {{ header.website }}
                         </a>
                 {% endif %}
