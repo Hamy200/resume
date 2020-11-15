@@ -55,11 +55,11 @@ experiences:
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & security posture following NIST
     technologies:
       - Azure, KQL
-      - Docker, Kubernetes
-      - DevOps, SRE
+      - DevOps
+      - SRE
+      - Agile, Jira
       - SWG Proxies
       - RedHat
-      - Agile, Jira
 
   - role: CTO/Co-Founder
     time: 2008 - 2010
@@ -141,9 +141,11 @@ skills:
   - category: Infrastructure
     tools:
       - name: Microsoft Azure Cloud
-      - name: Linux, Python, BASH
-      - name: Ansible, GIT, Docker, Kubernetes
-      - name: F5, Bluecoat ProxySG, Spring Cloud
+      - name: Linux
+      - name: Python, BASH
+      - name: Ansible, GIT
+      - name: Docker, Kubernetes
+      - name: F5, Bluecoat, Spring Cloud
       - name: Cloudflare, Akama WAF/CDN
   - category: others
     tools:
