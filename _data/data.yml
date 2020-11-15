@@ -59,7 +59,7 @@ experiences:
       highlights:
         - Design & build of largest-seen Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS
         - Direct feed into Azure product dev for features, patches & scale optimizations
-        - Led team to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
+        - Lead & mentor team to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & improve security posture following NIST guidelines
     technologies:
       - Azure Monitor Log Analytics
@@ -100,7 +100,7 @@ experiences:
       - C, C#, Java
 
   - role: Consultant & Pre-sales Engineer
-    time: 2000 - 2003
+    time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
         Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel. 
