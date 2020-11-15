@@ -135,8 +135,9 @@ skills:
     tools:
       - name: Splunk Certified Architect
       - name: Azure Monitor, Azure Data Explorer
-      - name: Fluent-bit k8s logback java
-      - name: DataDog, Prometheus/Grafana
+      - name: Fluent-bit, k8s, logback java
+      - name: DataDog
+      - name: Prometheus/Grafana
       - name: Azure Sentinel, Splunk ES SIEMs
   - category: Infrastructure
     tools:
