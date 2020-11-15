@@ -30,7 +30,7 @@ interests:
     link:
 
 summary: |
-      Customer-focused Azure Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability, performance and observability with a high focus on security.
+      Customer-focused Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability, performance and observability with a high focus on security.
 
 education:
   - degree: BSc (Hons) Economics
@@ -45,30 +45,31 @@ education:
         Schooling.
 
 experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
+  - role: Solutions Architect & DevOps Cloud Engineer
+    time: 2009 - Present
+    company: Morgan Stanley
     details: |
-      Role includes Observability Engineering (logs, metrics), SRE, DevOps and Team Lead using Agile techniques. Previously held roles include: Cyber Security Infrastructure Lead Architect, Platform Engineering and Security Analytics. 
-
+      Observability Engineering (logs, metrics), SRE, DevOps and Team Lead using Agile techniques. Previously held roles include: Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering. 
         - Bullet point
-        - Bullet point
+        - Previous roles: global team lead for layer 7 webapp and cloud security architecture, inc. Secure Web Gateway Proxies, Content Filters, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
     achievements:
       desc: |
-        Praesentium voluptatum deleniti atque corrupti quos dolores et quas
-        molestias excepturi sint occaecati cupiditate non provident.
+        Architected enterprise scale tracing/metrics/logging and security analytics big data platforms ingesting TBs daily
       highlights:
-        - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
-        - At vero eos et accusamus et iusto odio dignissimos.
-        - Blanditiis praesentium voluptatum deleniti atque corrupti.
+        - Built Azure's largest-seen logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
+	- Resulted in core patches and scale upgrades working with Microsoft engineers directly
+        - Team lead for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
+        - 
         - Maecenas tempus tellus eget.
     technologies:
-      - Angular
-      - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
+      - Azure Monitor Log Analytics
+      - Fluent-bit
+      - Logback java appenders
+      - Azure Data Explorer
+      - Azure Sentinel
+      - Splunk ES
+      - DataDog
+      - Prometheus/Grafana
 
   - role: Senior Software Developer
     time: 2014 - 2018
@@ -141,7 +142,7 @@ skills:
     tools:
       - name: Splunk Certified Architect
       - name: Azure Monitor, Azure Data Explorer
-      - name: Fluent-bit logging plugins & filters
+      - name: Fluent-bit log processing
       - name: DataDog metrics, Prometheus/Grafana
       - name: Azure Sentinel, Splunk ES SIEMs
   - category: Infrastructure
@@ -156,6 +157,7 @@ skills:
       - CISSP
       - CeH
       - Pagerduty
+      - Extrahop
       - Agile Kanban, Scrum
       - VSCode, Vim
       - Sphinx docs, PlantUML, ReST, MD
