@@ -121,15 +121,15 @@ experiences:
       - Boole & Babbage MAXM System Monitoring
       - Unicenter TNG
 
-#awards:
-#  - name: Award Name Lorem
-#    description: |
-#      Award desc goes here, ultricies nec, pellentesque
-#      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-#  - name: Award Name Lorem
-#    description: |
-#      Award desc goes here, ultricies nec, pellentesque
-#      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+awards:
+  - name: Award Name
+    description: |
+      Award desc goes here, ultricies nec, pellentesque
+      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  - name: Award Name Lorem
+    description: |
+      Award desc goes here, ultricies nec, pellentesque
+      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
 
 
 skills:
