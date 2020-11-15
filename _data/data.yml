@@ -78,23 +78,18 @@ experiences:
 
   - role: CTO/Co-Founder
     time: 2008 - 2010
-    company: Think Media
+    company: Think Media, Kuala Lumpur, Malaysia
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
+        Launched a successful web start-up property portal named thinkproperty. Pitched and received subsequent round of startup venture capital.
     achievements:
       desc: |
-        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        Become the number 1 property portal in Malaysia within 1 year. Sold to South-East Asia's incumbent publicly listed company
     technologies:
-      - React
-      - Redux
-      - Django
-      - Webpack
-      - HTML/SASS
-      - MySQL
+      - LAMP (Linux, Apache, MySQL, PHP)
+      - SDLC
+      - Internet marketing
+      - SEO, Google Adwords
+      - Project Management
 
   - role: Co-Founder & Lead Developer
     time: 2012 - 2014
