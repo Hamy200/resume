@@ -51,15 +51,15 @@ experiences:
     details: |
       Azure Solutions Architect, using infrastructure as code techniques for configuration management, automation, orchestration, capacity, budgeting, documentation, reliability and monitoring of large scale enterprise infrastructure.
         - Specialized in Observability Engineering (logs, metrics)
-        - Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering. Global team lead for Security Platform Engineering, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
+        - Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering. Global team lead for Security Platform Engineering, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation. 
     achievements:
       desc: |
         Architected enterprise scale tracing/metrics/logging and security analytics big data platforms ingesting TBs daily
       highlights:
         - Designed & built largest-seen Azure logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
         - Directly fed into patching Azure and scale optimizations with Microsoft engineers
-        - Team lead for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
-        -
+        - Led team for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
+        - Facilitated security use cases to detect and prevent threats, prioritize risks, automate compliance and improve security posture following NIST guidelines
     technologies:
       - Azure Monitor Log Analytics
       - Fluent-bit
@@ -71,6 +71,8 @@ experiences:
       - Prometheus/Grafana
       - Docker, Kubernetes
       - Ansible
+      - Linux
+      - Python, Perl, BASH
 
   - role: Senior Software Developer
     time: 2014 - 2018
