@@ -140,6 +140,7 @@ skills:
       - name: Fluent-bit, k8s, logback java
       - name: DataDog
       - name: Prometheus/Grafana
+      - name: Apache Kafka, Azure Eventhub
       - name: Azure Sentinel, Splunk ES SIEMs
   - category: Infrastructure
     tools:
