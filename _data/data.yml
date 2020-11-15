@@ -55,11 +55,9 @@ experiences:
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & security posture following NIST
     technologies:
       - Azure, KQL
-      - Splunk
-      - Prometheus/Grafana
       - Docker, Kubernetes
       - DevOps, SRE
-      - F5, Bluecoat, ZScaler
+      - SWG Proxies
       - RedHat
       - Agile, Jira
 
@@ -119,7 +117,7 @@ awards:
       Kung Fu, Tai Chi, Callisthenics
   - name: Hobbies
     description: |
-       Home Automation & DIY, Toastmasters
+       Home Automation & DIY, Toastmasters, Conferences, Podcasts
   - name: Volunteering
     description: |
        School Code Clubs, Charity support
