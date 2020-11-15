@@ -52,7 +52,7 @@ experiences:
         - Design & build of largest Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS solutions
         - Direct relationships into Azure product dev for features, patches & scale optimizations
         - Team lead to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
-        - Facilitated security use cases to control threats, prioritize risks, automate compliance & security posture following NIST
+        - Facilitated security use cases  cross-functionally to control threats, prioritize risks, automate compliance & security posture following NIST
     technologies:
       - Azure, KQL
       - DevOps
@@ -102,9 +102,9 @@ experiences:
 
   - role: Web Engineer/Graduate Trainee
     time: 1999 - 2001
-    company: JP Morgan (CSC Pinnacle Alliance), London.
+    company: JP Morgan (CSC Pinnacle Alliance), London
     details: |
-        Design, engineer & support JP Morgan’s intranet platform and websites. Consulting to establish design briefs with wireframing & protyping. Support systems monitoring tools.
+        Design, engineer & support JP Morgan’s intranet platform and websites. Consulting to establish design briefs with wireframing & protyping. Support systems monitoring tools
     technologies:
       - Solaris 8
       - Lotus Notes
