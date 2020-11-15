@@ -47,7 +47,7 @@ education:
 experiences:
   - role: Solutions Architect & DevOps Cloud Engineer
     time: 2009 - Present
-    company: Morgan Stanley, Canary Wharf, UK
+    company: Morgan Stanley, London
     details: |
       Azure Solutions Architect to engineer, budget, document, operate large scale enterprise infrastructure using SRE techniques, IaaC configuration management, automation & orchestration
         - Specialized in Observability Engineering (logs, metrics)
@@ -88,7 +88,7 @@ experiences:
 
   - role: Web Infrastructure Engineering & Operations
     time: 2003 - 2008
-    company: Morgan Stanley, Canary Wharf
+    company: Morgan Stanley, London
     details: |
         Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate & deploy tools, provide valuable R&D to vendors, e.g. during Splunki's infancy fed via regular meetings with their CEO direct into product development.
     technologies:
@@ -101,7 +101,7 @@ experiences:
 
   - role: Consultant & Pre-sales Engineer
     time: 2000 - 2003
-    company: Doubleclick (now Google), London
+    company: Doubleclick (Google), London
     details: |
         Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel. 
     technologies:
