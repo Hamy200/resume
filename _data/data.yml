@@ -67,7 +67,7 @@ experiences:
     time: 2008 - 2010
     company: Think Media, Kuala Lumpur
     details: |
-        Launched a successful web start-up property portal named thinkproperty whilst moving to Malaysia. Pitched & received subsequent rounds of startup venture capital. Become the number 1 property portal in Malaysia within 1 year. Sold to a publicly listed company.
+        Launched a successful web start-up property portal named thinkproperty whilst moving to Malaysia. Pitched & received subsequent rounds of startup venture capital. Become the number 1 property portal in Malaysia within 1 year. Sold to a publicly listed company
     technologies:
       - LAMP (Linux, Apache, MySQL, PHP)
       - HTML/CSS, JavaScript
@@ -78,7 +78,7 @@ experiences:
     time: 2003 - 2008
     company: Morgan Stanley, London
     details: |
-        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate & deploy tools, provide valuable R&D to vendors, e.g. during Splunk's infancy fed via regular meetings with their CEO direct into product development.
+        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's Web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools - during Splunk's infancy regularly met their CEO to give feedback to product development
     technologies:
       - Apache Tomcat
       - IIS
@@ -91,7 +91,7 @@ experiences:
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
-        Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel. 
+        Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel
     technologies:
       - PRINCE2
       - DART
@@ -156,11 +156,13 @@ skills:
       - Agile
       - Kanban
       - Scrum
-      - VSCode, Vim
+      - VSCode
+      - Vim
       - Sphinx
       - KQL, SPL
       - Pagerduty
       - Extrahop
-      - Wireshark, tcpdump
+      - Wireshark
+      - tcpdump
 
 
