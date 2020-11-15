@@ -22,7 +22,7 @@ header:
 #    level: Native
 
 summary: |
-      Customer-focused Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability, performance & observability with a high focus on security.
+      Customer-focused Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability & security.
 
 education:
   - degree: BSc (Hons) Economics
@@ -37,22 +37,22 @@ education:
         Schooling.
 
 experiences:
-  - role: Solutions Architect & DevOps Cloud Engineer
+  - role: Cloud Solutions Architect
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
-      Azure Solutions Architect to engineer, budget, document, operate large scale enterprise infrastructure using SRE techniques, IaaC configuration management, automation & orchestration
-        - Specialized in Observability Engineering (logs, metrics)
-        - Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering. Many years as global team lead for Security Platform Engineering, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
+      Azure Solutions Architect & DevOps engineer of large scale enterprise infrastructure using SRE techniques, IaaC configuration management, automation & orchestration
+        - Specialized in observability engineering (logs, metrics) & API proxy gateways
+        - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global team for Security Platform Engineering of Secure Web Gateway proxies, Malware/AV, DLP, Load Balancing & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
     achievements:
       desc: |
-        Architected enterprise scale logging & security analytics big data platforms ingesting TBs daily
+        Architected multiple enterprise scale logging & security analytics big data platforms ingesting TBs daily
       highlights:
-        - Design & build of largest-seen Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS
-        - Direct feed into Azure product dev for features, patches & scale optimizations
-        - Lead & mentor team to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
-        - Facilitated security use cases to control threats, prioritize risks, automate compliance & improve security posture following NIST guidelines
+        - Design & build of largest-seen Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS solutions
+        - Direct relationships into Azure product dev for features, patches & scale optimizations
+        - Team lead to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
+        - Facilitated security use cases to control threats, prioritize risks, automate compliance & security posture following NIST
     technologies:
       - Azure
       - SRE
