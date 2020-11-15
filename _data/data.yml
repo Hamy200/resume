@@ -56,7 +56,7 @@ experiences:
         Architected enterprise scale tracing/metrics/logging and security analytics big data platforms ingesting TBs daily
       highlights:
         - Built largest-seen Azure logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
-	- Resulted in core patches and scale upgrades working with Microsoft engineers directly
+        - Resulted in core patches and scale upgrades working with Microsoft engineers directly
         - Team lead for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
         - Maecenas tempus tellus eget.
     technologies:
