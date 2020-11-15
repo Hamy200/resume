@@ -83,14 +83,12 @@ experiences:
         Launched a successful web start-up property portal named thinkproperty whilst moving to Malaysia. Pitched and received subsequent rounds of startup venture capital. 
     achievements:
       desc: |
-        Become the number 1 property portal in Malaysia within 1 year. Sold to South-East Asia's incumbent publicly listed property portal
+        Become the number 1 property portal in Malaysia within 1 year. Sold to a publicly listed company.
     technologies:
       - LAMP (Linux, Apache, MySQL, PHP)
       - HTML/CSS, JavaScript
       - SDLC
-      - Internet marketing
-      - SEO, Google Adwords
-      - Project Management
+      - Internet marketing, SEO
 
   - role: Web Infrastructure Engineering & Operations
     time: 2003 - 2008
