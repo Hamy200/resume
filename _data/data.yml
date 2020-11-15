@@ -22,7 +22,7 @@ header:
 #    level: Native
 
 summary: |
-      Customer-focused Infrastructure Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of engineering solutions optimized for cost, reliability & security.
+      Customer-focused Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of engineering solutions optimized for cost, reliability & security.
 
 education:
   - degree: BSc (Hons) Economics
@@ -41,9 +41,9 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
-      Azure Solutions Architect & DevOps engineer of large scale enterprise infrastructure using SRE techniques, IaaC configuration management, automation & orchestration
-        - Specialized in observability engineering (logs, metrics) & API proxy gateways
-        - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global team for Security Platform Engineering of Secure Web Gateway proxies, Malware/AV, DLP, Load Balancing & Cloud WAF/DDoS mitigation
+      Massive scale enterprise infrastructure architect using SRE techniques, IaaC configuration management, automation & orchestration
+        - Specialism in observability engineering (logs, metrics) & API proxy gateways
+        - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, Malware/AV, DLP, Load Balancing & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
     achievements:
       desc: |
