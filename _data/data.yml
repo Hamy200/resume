@@ -60,6 +60,8 @@ experiences:
       - Agile, Jira
       - SWG Proxies
       - RedHat
+      - Jive
+      - MS apps (OneNote, Teams)
 
   - role: CTO/Co-Founder
     time: 2008 - 2010
@@ -141,6 +143,7 @@ skills:
       - name: Azure Sentinel, Splunk ES SIEMs
   - category: Infrastructure
     tools:
+      - name: CISSP, Ceh
       - name: Microsoft Azure Cloud
       - name: Linux
       - name: Python, BASH
@@ -150,15 +153,14 @@ skills:
       - name: Cloudflare, Akama WAF/CDN
   - category: others
     tools:
-      - CISSP
-      - CeH
-      - Pagerduty
-      - Extrahop
-      - Wireshark, tcpdump
       - Agile
       - Kanban
       - Scrum
       - VSCode, Vim
       - Sphinx
       - KQL, SPL
+      - Pagerduty
+      - Extrahop
+      - Wireshark, tcpdump
+
 
