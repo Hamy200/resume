@@ -1,11 +1,11 @@
 {% assign experiences = site.data.data.experiences %}
 {% if experiences %}
 <section class="resume-section experience-section mb-5">
-    <h2 class="resume-section-title text-uppercase font-weight-bold pb-5 mb-5">{{ site.data.labels.experience | default: "Work Experience" }}</h2>
+    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">{{ site.data.labels.experience | default: "Work Experience" }}</h2>
     <div class="resume-section-content">
         <div class="resume-timeline position-relative">
             {% for experience in experiences %}
-            <article class="resume-timeline-item position-relative pb-5">
+            <article class="resume-timeline-item position-relative pb-2">
                 <div class="resume-timeline-item-header mb-2">
                     <div class="d-flex flex-column flex-md-row">
                         <h3 class="resume-position-title font-weight-bold mb-1">
