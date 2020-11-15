@@ -1,0 +1,33 @@
+Summary
+----------
+- 20 years of Enterprise Infrastructure Experience. 
+- VP at Morgan Stanley as an Azure Solutions Architect with specialities in Observability (logs, metrics) and Application Delivery.
+- Roles: SRE, DevOps, Cyber Security Infrastructure Architecture, Platform Engineering and Security Analytics. Team Lead using Agile techniques.
+- Previous Employments: DoubleClick (Google), JP Morgan (CSC Pinnacle Alliance), and Web Startup Founder/CTO.
+
+Skills Overview
+----------------------
+Architecture & engineering of cloud and big data security analytics SIEM platforms
+Azure Cloud (inc. Sentinel, Azure Monitor Log Analytics, AKS (kubernetes), Event Hubs, Azure Data Explorer)
+Splunk Certified: Architect II; Sys Admin v7.x; Enterprise Security SIEM ES Architect; Splunk'ing since 2006
+Apache Kafka, Kafka Connect, Nifi, Spark & Elastic
+Agile DevOps processes & tools (inc. Ansible, JIRA, Jenkins, GIT, kubernetes, docker, scrum, kanban, PRINCE2)
+CISSP (Certified Information Systems Security Professional)
+Certified Ethical Hacker v8 (EC council CeH) vulnerability & penetration testing 
+Linux System Administration
+Symantec Bluecoat ProxySG Certified
+F5 BigIP loadbalancer & modules
+Site Reliability Engineering
+Cloud Security: Akamai WAA/Terra, Kona Site Defender (DDoS, WAF), Cloudflare, Prolexic, ZScaler, AWS, ThreatPulse, Azure security solutions
+
+Platforms/OS
+-------------------
+Azure Cloud, AWS, Redhat Enterprise Linux, Windows, (L)Ubuntu, Android, Fedora, CentOS, Ubuntu and *nix shells and commands
+
+Languages/Protocols
+-------------------------------
+Python, awk, shell (BASH, KSH), Perl, CSS/HTML, PHP, JavaScript, SQL, KQL Java, Bluecoat (CPL), Splunk SPL, TCP/IP, PKI, Lua
+
+Software/Hardware/Cloud
+---------------------------
+Azure Cloud, Fluent-bit, DataDog, Splunk 7.x & ES SIEM 5.x, Ansible, Docker, Kubernetes, Apache NiFi, Bro/Zeek, Apache Kafka, Bluecoat ProxySG, WebSense, F5 BigIP LTM, ASM & GTM, A10, FireEye, M86/Trustwave, Extrahop, Wireshark/tshark, tcpdump, LAMP (Apache, Tomcat, Mysql, PHP), Sphinx, RST, md, Plantuml, AFS, GIT, Jira, Jenkins, Elastic
