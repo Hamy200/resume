@@ -49,8 +49,8 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley
     details: |
-      Azure Solutions Architect with specialities in Observability Engineering (logs, metrics), SRE and DevOps tools using Agile techniques. Previously roles in Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering, Linux Web Infrastructure Engineering
-        - Previous roles global team lead for layer 7 webapp and cloud security architecture, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
+      Azure Solutions Architect specialized in Observability Engineering (logs, metrics), SRE and DevOps tools using Agile techniques. Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering.
+        - Global team lead for layer 7 webapp and cloud security architecture, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
     achievements:
       desc: |
         Architected enterprise scale tracing/metrics/logging and security analytics big data platforms ingesting TBs daily
