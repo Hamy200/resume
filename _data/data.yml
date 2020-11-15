@@ -49,26 +49,28 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley
     details: |
-      Azure Solutions Architect specialized in Observability Engineering (logs, metrics), SRE and DevOps tools using Agile techniques. Previous roles as:
-        - Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering.
-        - Global team lead for layer 7 webapp and cloud security architecture, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
+      Azure Solutions Architect, using infrastructure as code techniques for configuration management, automation, orchestration, capacity, budgeting, documentation, reliability and monitoring of large scale enterprise infrastructure.
+        - Specialized in Observability Engineering (logs, metrics)
+        - Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering. Global team lead for Security Platform Engineering, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
     achievements:
       desc: |
         Architected enterprise scale tracing/metrics/logging and security analytics big data platforms ingesting TBs daily
       highlights:
-        - Built largest-seen Azure logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
-        - Resulted in core patches and scale upgrades working with Microsoft engineers directly
+        - Designed & built largest-seen Azure logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
+        - Directly fed into patching Azure and scale optimizations with Microsoft engineers
         - Team lead for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
-        - Maecenas tempus tellus eget.
+        -
     technologies:
       - Azure Monitor Log Analytics
       - Fluent-bit
-      - Logback java appenders
+      - logback java appenders
       - Azure Data Explorer
       - Azure Sentinel
       - Splunk ES
       - DataDog
       - Prometheus/Grafana
+      - Docker, Kubernetes
+      - Ansible
 
   - role: Senior Software Developer
     time: 2014 - 2018
