@@ -62,18 +62,14 @@ experiences:
         - Lead & mentor team to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & improve security posture following NIST guidelines
     technologies:
-      - Azure Monitor Log Analytics
+      - Azure
       - Fluent-bit
       - logback java
-      - Azure Data Explorer
-      - Azure Sentinel
-      - Splunk ES
-      - DataDog
+      - Splunk, DataDog
       - Prometheus/Grafana
       - Docker, Kubernetes
-      - Ansible
-      - Linux
-      - Python, Perl, BASH
+      - DevOps
+      - Linux scripting
 
   - role: CTO/Co-Founder
     time: 2008 - 2010
@@ -97,13 +93,13 @@ experiences:
       - ITIL
       - Splunk
       - Datacenter
-      - C, C#, Java
+      - C, Perl, Java
 
   - role: Consultant & Pre-sales Engineer
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
-        Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel. 
+        Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel. 
     technologies:
       - PRINCE2
       - DART
@@ -159,4 +155,6 @@ skills:
       - Extrahop
       - Agile Kanban, Scrum
       - VSCode, Vim
-      - Sphinx docs, PlantUML, ReST, MD
+      - Sphinx, PlantUML, ReST, MD
+      - Python, BASH
+
