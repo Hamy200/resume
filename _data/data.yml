@@ -78,53 +78,58 @@ experiences:
 
   - role: CTO/Co-Founder
     time: 2008 - 2010
-    company: Think Media, Kuala Lumpur, Malaysia
+    company: Think Media, Kuala Lumpur
     details: |
-        Launched a successful web start-up property portal named thinkproperty. Pitched and received subsequent round of startup venture capital.
+        Launched a successful web start-up property portal named thinkproperty whilst moving to Malaysia. Pitched and received subsequent rounds of startup venture capital. 
     achievements:
       desc: |
-        Become the number 1 property portal in Malaysia within 1 year. Sold to South-East Asia's incumbent publicly listed company
+        Become the number 1 property portal in Malaysia within 1 year. Sold to South-East Asia's incumbent publicly listed property portal
     technologies:
       - LAMP (Linux, Apache, MySQL, PHP)
+      - HTML/CSS, JavaScript
       - SDLC
       - Internet marketing
       - SEO, Google Adwords
       - Project Management
 
-  - role: Co-Founder & Lead Developer
-    time: 2012 - 2014
-    company: To-do Lists
+  - role: Web Infrastructure Engineering & Operations
+    time: 2003 - 2008
+    company: Morgan Stanley, Canary Wharf
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec.
-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes.
+        Technical project management, architecture, engineering and operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate and deploy tools, provide valuable R&D to vendors, e.g. during Splunki's infancy fed via regular meetings with their CEO direct into product development
     technologies:
-      - Django
-      - JavaScript
-      - Node.js
-      - Require.js
-      - HTML/SASS
+      - Apache Tomcat
+      - IIS
+      - ITIL
+      - Splunk
+      - Datacenter
+      - C, C#, Java
 
-  - role: Web Developer
-    subrole: Intern
-    time: 2011 - 2012
-    company: Amazon
+  - role: Consultant & Pre-sales Engineer
+    time: 2000 - 2003
+    company: Doubleclick (now Google), London
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec. Fusce vulputate eleifend sapien.
-      Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus.
-      Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum.
+        Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business and technical environments, 90% overseas travel. 
     technologies:
-      - Ruby on Rails
-      - jQuery
-      - HTML/LESS
-      - MongoDB
+      - PRINCE2
+      - DART
+      - HTML/CSS
+      - Solaris
+      - SQL Server, Oracle
+      - Netscape Iplanet, Apache
+      - BEA Weblogic
+
+  - role: Web Engineer/Graduate Trainee
+    time: 1999 - 2001
+    company: JP Morgan (CSC Pinnacle Alliance), London.
+    details: |
+        Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business and technical environments, 90% overseas travel. 
+    technologies:
+      - PRINCE2
+      - DART
+      - HTML/CSS
+      - Solaris
+
 
 #awards:
 #  - name: Award Name Lorem
