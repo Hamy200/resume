@@ -30,14 +30,14 @@ interests:
     link:
 
 summary: |
-      Customer-focused Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability, performance and observability with a high focus on security.
+      Customer-focused Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability, performance & observability with a high focus on security.
 
 education:
   - degree: BSc (Hons) Economics
     university: Brunel University London
     time: 1994 - 1998
     details: |
-       Economics, Econometrics, Marketing & Management Modules. Two 6month work experiences in London and Germany.
+       Economics, Econometrics, Marketing & Management Modules. Two 6month work experiences in London & Germany.
   - degree: GCSEs & A-Levels
     university: Watford Boys Grammar School
     time: 1988 - 1994
@@ -49,19 +49,18 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley, Canary Wharf, UK
     details: |
-      Azure Solutions Architect responsible for design, engineering, budgeting, documentation, operation/reliability and monitoring of large scale enterprise infrastructure using IaaC configuration management, automation and orchestration
+      Azure Solutions Architect to engineer, budget, document, operate large scale enterprise infrastructure using SRE techniques, IaaC configuration management, automation & orchestration
         - Specialized in Observability Engineering (logs, metrics)
         - Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering. Many years as global team lead for Security Platform Engineering, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
     achievements:
       desc: |
-        Architected enterprise scale logging and security analytics big data platforms ingesting TBs daily
+        Architected enterprise scale logging & security analytics big data platforms ingesting TBs daily
       highlights:
-        - Designed & built largest-seen Azure logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
-        - Savings of $Millions over SaaS solutions
-        - Directly fed into Azure product development, patching and scale optimizations with Microsoft engineers
-        - Led team for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
-        - Facilitated security use cases to detect and prevent threats, prioritize risks, automate compliance and improve security posture following NIST guidelines
+        - Design & build of largest-seen Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS
+        - Direct feed into Azure product dev for features, patches & scale optimizations
+        - Led team to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
+        - Facilitated security use cases to control threats, prioritize risks, automate compliance & improve security posture following NIST guidelines
     technologies:
       - Azure Monitor Log Analytics
       - Fluent-bit
@@ -80,10 +79,7 @@ experiences:
     time: 2008 - 2010
     company: Think Media, Kuala Lumpur
     details: |
-        Launched a successful web start-up property portal named thinkproperty whilst moving to Malaysia. Pitched and received subsequent rounds of startup venture capital. 
-    achievements:
-      desc: |
-        Become the number 1 property portal in Malaysia within 1 year. Sold to a publicly listed company.
+        Launched a successful web start-up property portal named thinkproperty whilst moving to Malaysia. Pitched & received subsequent rounds of startup venture capital. Become the number 1 property portal in Malaysia within 1 year. Sold to a publicly listed company.
     technologies:
       - LAMP (Linux, Apache, MySQL, PHP)
       - HTML/CSS, JavaScript
@@ -94,7 +90,7 @@ experiences:
     time: 2003 - 2008
     company: Morgan Stanley, Canary Wharf
     details: |
-        Technical project management, architecture, engineering and operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate and deploy tools, provide valuable R&D to vendors, e.g. during Splunki's infancy fed via regular meetings with their CEO direct into product development.
+        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate & deploy tools, provide valuable R&D to vendors, e.g. during Splunki's infancy fed via regular meetings with their CEO direct into product development.
     technologies:
       - Apache Tomcat
       - IIS
@@ -107,7 +103,7 @@ experiences:
     time: 2000 - 2003
     company: Doubleclick (now Google), London
     details: |
-        Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business and technical environments, 90% overseas travel. 
+        Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel. 
     technologies:
       - PRINCE2
       - DART
@@ -120,7 +116,7 @@ experiences:
     time: 1999 - 2001
     company: JP Morgan (CSC Pinnacle Alliance), London.
     details: |
-        Engineer and support JP Morgan’s European Intranet. Design, development, implementation and operation of numerous JPM global Intranet sites. Client consulting to establish design briefs & requirements, wireframing and protyping. Systems monitoring infrastructure support.
+        Engineer & support JP Morgan’s European Intranet. Design, development, implementation & operation of numerous JPM global Intranet sites. Client consulting to establish design briefs & requirements, wireframing & protyping. Systems monitoring infrastructure support.
     technologies:
       - Solaris 8
       - Lotus Notes
