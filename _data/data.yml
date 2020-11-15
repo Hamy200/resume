@@ -67,7 +67,7 @@ experiences:
     time: 2008 - 2010
     company: Think Media, Kuala Lumpur
     details: |
-        Launched a successful web start-up property portal named thinkproperty whilst moving to Malaysia. Pitched & received subsequent rounds of startup venture capital. Become the number 1 property portal in Malaysia within 1 year. Sold to a publicly listed company
+        Launched a successful web start-up named thinkproperty and moved to Malaysia. Pitched & received subsequent rounds of startup venture capital. Become the number 1 property portal in Malaysia within 1 year. Sold to a publicly listed company
     technologies:
       - LAMP (Linux, Apache, MySQL, PHP)
       - HTML/CSS, JavaScript
@@ -87,7 +87,7 @@ experiences:
       - Datacenter
       - C, Perl, Java
 
-  - role: Consultant & Pre-sales Engineer
+  - role: Technical Consultant & Pre-sales Engineer
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
@@ -141,7 +141,7 @@ skills:
       - name: DataDog
       - name: Prometheus/Grafana
       - name: Apache Kafka, Azure Eventhub
-      - name: Azure Sentinel, Splunk ES SIEMs
+      - name: Azure Sentinel, Splunk ES SIEM
   - category: Infrastructure
     tools:
       - name: CISSP, Ceh
