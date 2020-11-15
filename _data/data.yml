@@ -49,17 +49,15 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley
     details: |
-      Observability Engineering (logs, metrics), SRE, DevOps and Team Lead using Agile techniques. Previously held roles include: Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering. 
-        - Bullet point
-        - Previous roles: global team lead for layer 7 webapp and cloud security architecture, inc. Secure Web Gateway Proxies, Content Filters, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
+      Azure Solutions Architect with specialities in Observability Engineering (logs, metrics), SRE and DevOps using Agile techniques. Previously held roles include: Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering. 
+        - Previous roles: global team lead for layer 7 webapp and cloud security architecture, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
     achievements:
       desc: |
         Architected enterprise scale tracing/metrics/logging and security analytics big data platforms ingesting TBs daily
       highlights:
-        - Built Azure's largest-seen logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
+        - Built largest-seen Azure logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
 	- Resulted in core patches and scale upgrades working with Microsoft engineers directly
         - Team lead for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
-        - 
         - Maecenas tempus tellus eget.
     technologies:
       - Azure Monitor Log Analytics
