@@ -49,22 +49,23 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley
     details: |
-      Azure Solutions Architect responsible for design, engineer, budget, documentation, operation/reliability and monitoring of large scale enterprise infrastructure using IaaC for configuration management, automation and orchestration.
+      Azure Solutions Architect responsible for design, engineering, budgeting, documentation, operation/reliability and monitoring of large scale enterprise infrastructure using IaaC configuration management, automation and orchestration
         - Specialized in Observability Engineering (logs, metrics)
-        - Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering. Many years as global team lead for Security Platform Engineering, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation. 
+        - Previous roles as Cyber Security Infrastructure Lead Architect, Application Delivery Platform Engineering & Linux Web Infrastructure Engineering. Many years as global team lead for Security Platform Engineering, inc. Secure Web Gateway proxies, Malware/AV, DLP, Load Balancers & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
     achievements:
       desc: |
         Architected enterprise scale logging and security analytics big data platforms ingesting TBs daily
       highlights:
         - Designed & built largest-seen Azure logging pipeline to handle 8M/eps from 20k Azure Kubernetes pods
-        - Directly fed into patching Azure and scale optimizations with Microsoft engineers
+        - Savings of $Millions over SaaS solutions
+        - Directly fed into Azure product development, patching and scale optimizations with Microsoft engineers
         - Led team for design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
         - Facilitated security use cases to detect and prevent threats, prioritize risks, automate compliance and improve security posture following NIST guidelines
     technologies:
       - Azure Monitor Log Analytics
       - Fluent-bit
-      - logback java appenders
+      - logback java
       - Azure Data Explorer
       - Azure Sentinel
       - Splunk ES
