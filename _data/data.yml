@@ -166,6 +166,8 @@ skills:
       - Pagerduty
       - Extrahop
       - Wireshark
+      - Microservices
+      - API Management
       - tcpdump
 
 
