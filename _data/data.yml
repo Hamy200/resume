@@ -30,7 +30,7 @@ interests:
     link:
 
 summary: |
-      Customer-focused Solution Architect with 20 years of industry experience. Demonstrated mastery in optimizing for cost, reliability, performance and observability with a high focus on security. VP at Morgan Stanley as an Azure Solutions Architect.
+      Customer-focused Azure Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability, performance and observability with a high focus on security.
 
 education:
   - degree: BSc (Hons) Economics
@@ -144,20 +144,19 @@ skills:
       - name: Fluent-bit logging plugins & filters
       - name: DataDog metrics, Prometheus/Grafana
       - name: Azure Sentinel, Splunk ES SIEMs
-  - category: Application Delivery
+  - category: Infrastructure
     tools:
       - name: Microsoft Azure Cloud
-      - name: Linux Admin, Azure Kubernetes
-      - name: DevOps Ansible, GIT, CI/CD
-      - name: F5, Bluecoat Web Proxies
-      - name: Akamai, Cloudflare CDN
+      - name: Linux, Python, BASH
+      - name: Ansible, GIT, Docker, Kubernetes
+      - name: F5, Bluecoat ProxySG, Spring Cloud
+      - name: Cloudflare, Akama WAF/CDN
   - category: others
     tools:
       - CISSP
       - CeH
       - Docker
       - Pagerduty
-      - Windows
       - Agile Kanban, Scrum
       - VSCode, Vim
       - Sphinx docs, PlantUML, ReST, MD
