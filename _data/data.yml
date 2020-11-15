@@ -96,7 +96,7 @@ experiences:
     time: 2003 - 2008
     company: Morgan Stanley, Canary Wharf
     details: |
-        Technical project management, architecture, engineering and operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate and deploy tools, provide valuable R&D to vendors, e.g. during Splunki's infancy fed via regular meetings with their CEO direct into product development
+        Technical project management, architecture, engineering and operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate and deploy tools, provide valuable R&D to vendors, e.g. during Splunki's infancy fed via regular meetings with their CEO direct into product development.
     technologies:
       - Apache Tomcat
       - IIS
@@ -114,7 +114,6 @@ experiences:
       - PRINCE2
       - DART
       - HTML/CSS
-      - Solaris
       - SQL Server, Oracle
       - Netscape Iplanet, Apache
       - BEA Weblogic
@@ -123,13 +122,14 @@ experiences:
     time: 1999 - 2001
     company: JP Morgan (CSC Pinnacle Alliance), London.
     details: |
-        Report direct to Technical Director. Implement & project manage on-site customer deployments of DoubleClick AdServing Technologies. Multi-disciplined consultancy in disparate business and technical environments, 90% overseas travel. 
+        Engineer and support JP Morgan’s European Intranet. Design, development, implementation and operation of numerous JPM global Intranet sites. Client consulting to establish design briefs & requirements, wireframing and protyping. Systems monitoring infrastructure support.
     technologies:
-      - PRINCE2
-      - DART
-      - HTML/CSS
-      - Solaris
-
+      - Solaris 8
+      - Lotus Notes
+      - HTML
+      - Unix AIX
+      - Boole & Babbage MAXM System Monitoring
+      - Unicenter TNG
 
 #awards:
 #  - name: Award Name Lorem
