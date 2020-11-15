@@ -47,7 +47,7 @@ education:
 experiences:
   - role: Solutions Architect & DevOps Cloud Engineer
     time: 2009 - Present
-    company: Morgan Stanley
+    company: Morgan Stanley, Canary Wharf, UK
     details: |
       Azure Solutions Architect responsible for design, engineering, budgeting, documentation, operation/reliability and monitoring of large scale enterprise infrastructure using IaaC configuration management, automation and orchestration
         - Specialized in Observability Engineering (logs, metrics)
@@ -76,9 +76,9 @@ experiences:
       - Linux
       - Python, Perl, BASH
 
-  - role: Senior Software Developer
-    time: 2014 - 2018
-    company: Google
+  - role: CTO/Co-Founder
+    time: 2008 - 2010
+    company: Think Media
     details: |
       Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
       Aenean commodo ligula eget dolor. Aenean massa.
