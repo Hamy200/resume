@@ -119,10 +119,13 @@ awards:
       Callisthenics
   - name: Hobbies
     description: |
-       Home Automation, DIY, Toastmasters
+       Home Automation
+       DIY
+       Toastmasters
   - name: Volunteering
     description: |
-       Local schools Code Club, Charity support
+       Local schools Code Club
+       Charity support
 
 #interests:
 #  - name: Health - Kung Fu, Tai Chi, Callisthenics
