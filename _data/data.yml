@@ -43,24 +43,25 @@ experiences:
     details: |
       Massive scale enterprise infrastructure architect using SRE techniques, IaaC configuration management, automation & orchestration
         - Specialism in observability engineering (logs, metrics) & API proxy gateways
-        - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, Malware/AV, DLP, Load Balancing & Cloud WAF/DDoS mitigation
+        - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, DLP, Load Balancing & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
     achievements:
       desc: |
         Architected multiple enterprise scale logging & security analytics big data platforms ingesting TBs daily
       highlights:
-        - Design & build of largest-seen Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS solutions
+        - Design & build of largest Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS solutions
         - Direct relationships into Azure product dev for features, patches & scale optimizations
         - Team lead to design, budget, build & operate one of Splunk's largest Enterprise Security (ES) SIEM deployments
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & security posture following NIST
     technologies:
-      - Azure
-      - Splunk, DataDog
+      - Azure, KQL
+      - Splunk
       - Prometheus/Grafana
       - Docker, Kubernetes
       - DevOps, SRE
-      - F5, Bluecoat
-      - Agile
+      - F5, Bluecoat, ZScaler
+      - RedHat
+      - Agile, Jira
 
   - role: CTO/Co-Founder
     time: 2008 - 2010
@@ -77,7 +78,7 @@ experiences:
     time: 2003 - 2008
     company: Morgan Stanley, London
     details: |
-        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate & deploy tools, provide valuable R&D to vendors, e.g. during Splunki's infancy fed via regular meetings with their CEO direct into product development.
+        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's E-commerce platforms. Evaluate & deploy tools, provide valuable R&D to vendors, e.g. during Splunk's infancy fed via regular meetings with their CEO direct into product development.
     technologies:
       - Apache Tomcat
       - IIS
@@ -152,9 +153,11 @@ skills:
       - CeH
       - Pagerduty
       - Extrahop
+      - Wireshark, tcpdump
       - Agile
       - Kanban
       - Scrum
       - VSCode, Vim
       - Sphinx
+      - KQL, SPL
 
