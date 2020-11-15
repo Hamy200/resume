@@ -155,9 +155,7 @@ skills:
     tools:
       - CISSP
       - CeH
-      - Docker
       - Pagerduty
       - Agile Kanban, Scrum
       - VSCode, Vim
       - Sphinx docs, PlantUML, ReST, MD
-      - Python, Perl, BASH
