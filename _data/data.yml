@@ -63,7 +63,7 @@ experiences:
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & improve security posture following NIST guidelines
     technologies:
       - Azure
-      - logback java
+      - SRE
       - Splunk, DataDog
       - Prometheus/Grafana
       - Docker, Kubernetes
@@ -135,7 +135,7 @@ skills:
     tools:
       - name: Splunk Certified Architect
       - name: Azure Monitor, Azure Data Explorer
-      - name: Fluent-bit log processing
+      - name: Fluent-bit k8s logback java
       - name: DataDog, Prometheus/Grafana
       - name: Azure Sentinel, Splunk ES SIEMs
   - category: Infrastructure
