@@ -63,13 +63,11 @@ experiences:
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & improve security posture following NIST guidelines
     technologies:
       - Azure
-      - Fluent-bit
       - logback java
       - Splunk, DataDog
       - Prometheus/Grafana
       - Docker, Kubernetes
       - DevOps
-      - Linux scripting
 
   - role: CTO/Co-Founder
     time: 2008 - 2010
