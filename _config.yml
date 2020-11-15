@@ -9,7 +9,7 @@ tagline: Cloud Solutions Architect
 description: Resume (shortened Curriculum Vitae) 
 
 url: "https://kash.chowdhree.com"
-baseurl: "/resume" 
+baseurl: "/" 
 
 twitter:
   username: SelRE5
