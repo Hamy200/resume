@@ -21,16 +21,6 @@ header:
 #  - idiom: English
 #    level: Native
 
-interests:
-  - name: Health - Kung Fu, Tai Chi, Callisthenics
-    link:
-  - name: 
-  - name: Hobbies - Home Automation, DIY, Toastmasters
-    link:
-  - name: 
-  - name: Volunteering - Google Code Club, Charity support
-    link:
-
 summary: |
       Customer-focused Cloud Solutions Architect at Morgan Stanley, with 20 years of industry experience. Demonstrated mastery in the delivery of solutions optimized for cost, reliability, performance & observability with a high focus on security.
 
@@ -124,11 +114,20 @@ experiences:
 awards:
   - name: Health
     description: |
-      Kung Fu, Tai Chi
-  - name: Award Name Lorem
+      Kung Fu, Tai Chi, Callisthenics
+  - name: Hobbies
     description: |
-      Award desc goes here, ultricies nec, pellentesque
-      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+       Home Automation, DIY, Toastmasters
+  - name: Volunteering
+    description: |
+       Local schools Code Club, Charity support
+
+#interests:
+#  - name: Health - Kung Fu, Tai Chi, Callisthenics
+#    link:
+#  - name: Hobbies - Home Automation, DIY, Toastmasters
+#    link:
+#  - name: Volunteering - Google Code Club, Charity support
 
 
 skills:

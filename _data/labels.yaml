@@ -1,7 +1,7 @@
 # In this file, you can override most of the sections titles
 
 career-profile: Summary # default: Career Profile
-awards: # default: Awards
+awards: Interests # default: Awards
 education: # default: Education
 experience: # default: Work Experience
 achievements: # default: Achievements
