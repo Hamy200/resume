@@ -34,14 +34,14 @@ education:
     university: Watford Boys Grammar School
     time: 1988 - 1994
     details: |
-        Schooling.
+        Schooling
 
 experiences:
   - role: Cloud Solutions Architect
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
-            Massive scale enterprise infrastructure architect using SRE techniques, IaaC config management automation & orchestration
+        Massive scale enterprise infrastructure architect using SRE techniques, IaaC config management automation & orchestration
         - Design lead in observability engineering (logs, metrics) & API proxy gateways
         - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, DLP, Load Balancing & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
