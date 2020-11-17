@@ -22,7 +22,7 @@ header:
 #    level: Native
 
 summary: |
-      Customer-focused Architect at Morgan Stanley, with 20 years industry experience. <br> Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security.
+      Customer-focused Architect at Morgan Stanley, with 20 years industry experience. Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security.
 
 education:
   - degree: BSc (Hons) Economics
@@ -41,7 +41,7 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
-            Massive scale enterprise infrastructure architect using SRE techniques, IaaC config management automation & orchestration\:
+            Massive scale enterprise infrastructure architect using SRE techniques, IaaC config management automation & orchestration
         - Design lead in observability engineering (logs, metrics) & API proxy gateways
         - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, DLP, Load Balancing & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
@@ -54,7 +54,7 @@ experiences:
         - Innovated and wrote "RAINS" Splunk app to facilitate cloud migration whilst maintaining a single pane of glass for log data with zero-ingest cost
         - Global team lead to design, budget, build & operate one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & security posture using NIST
-        - Actively communicate & share via my jive blog site 'The log of a logaholic - I like big data and cannot lie'
+        - Actively communicate via ADRS & a jive blog site 'The log of a logaholic - taming the logness monster'
     technologies:
       - Azure, KQL
       - DevOps
