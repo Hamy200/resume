@@ -50,11 +50,11 @@ experiences:
         Architected multiple enterprise scale security solutions & big data logging platforms ingesting TBs daily
       highlights:
         - Design & build of largest Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS solutions
-        - Built relationships into Azure product dev to influence roadmaps, patching & scale optimizations
-        - Innovated and wrote "RAINS" Splunk app to facilitate cloud migration whilst maintaining a single pane of glass for log data with zero-ingest cost
+        - Foster relationships into Azure product dev to influence roadmaps, patching & scale optimizations
+        - Innovate migration paths, e.g. coded "RAINS" Splunk app to facilitate cloud migration whilst maintaining a single pane of glass for log data with zero-ingest cost and no mass egress of data from the clouds
         - Global team lead to design, budget, build & operate one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
-        - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & security posture using NIST
-        - Communicate via ADR docs & jive blogs 'The log of a logaholic - taming the logness monster'
+        - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & security posture using NIST guidelines and OWASP framework
+        - Communicate and knowledge share via SDLC ADR (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
     technologies:
       - Azure, KQL
       - DevOps
@@ -100,7 +100,7 @@ experiences:
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
-        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel providing consultancy, troubleshooting, installs, training & project management 
+        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel included troubleshooting, installs, training & project management 
     technologies:
       - PRINCE2
       - DART
