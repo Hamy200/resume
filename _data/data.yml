@@ -47,14 +47,14 @@ experiences:
         - Splunk'ing since 2006
     achievements:
       desc: |
-        Architected multiple enterprise scale logging & security analytics big data platforms ingesting TBs daily
+        Architected multiple enterprise scale security solutions & big data logging platforms ingesting TBs daily
       highlights:
         - Design & build of largest Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS solutions
         - Built relationships into Azure product dev to influence roadmaps, patching & scale optimizations
         - Innovated and wrote "RAINS" Splunk app to facilitate cloud migration whilst maintaining a single pane of glass for log data with zero-ingest cost
         - Global team lead to design, budget, build & operate one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & security posture using NIST
-        - Actively communicate via ADRS & a jive blog site 'The log of a logaholic - taming the logness monster'
+        - Communicate via ADR docs & jive blogs 'The log of a logaholic - taming the logness monster'
     technologies:
       - Azure, KQL
       - DevOps
@@ -77,6 +77,9 @@ experiences:
       - HTML/CSS, JavaScript
       - SDLC
       - Internet marketing, SEO
+      - Google AdWords
+      - Remote teaming
+      - Finance
 
   - role: Web Infrastructure Engineering & Operations
     time: 2003 - 2008
@@ -88,8 +91,10 @@ experiences:
       - IIS
       - ITIL
       - Splunk
-      - Datacenter
+      - Datacenters
       - C, Perl, Java
+      - Linux DMZs
+      - Operations
 
   - role: Technical Consultant & Pre-sales Engineer
     time: 2001 - 2003
@@ -103,6 +108,7 @@ experiences:
       - SQL Server, Oracle
       - Netscape Iplanet, Apache
       - BEA Weblogic
+      - Linux, Win Server
 
   - role: Web Engineer/Graduate Trainee
     time: 1999 - 2001
