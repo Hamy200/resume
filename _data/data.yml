@@ -85,7 +85,7 @@ experiences:
     time: 2003 - 2008
     company: Morgan Stanley, London
     details: |
-        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's Web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools - during Splunk's infancy regularly met their CEO to give feedback to product development
+        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's Web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools, e.g. during Splunk's infancy regularly met their CEO to give feedback to product development
     technologies:
       - Apache Tomcat
       - IIS
