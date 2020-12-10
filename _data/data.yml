@@ -41,18 +41,18 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
-        Massive scale enterprise infrastructure architect using SRE techniques, IaaC config management automation & orchestration
-        - Design lead in observability engineering (logs, metrics) & API proxy gateways
+        Massive scale enterprise infrastructure architect using DevOps techniques & tooling for automation & orchestration
+        - Cloud observability engineering lead (logging, traces, metrics) & API management gateways
         - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, DLP, Load Balancing & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
     achievements:
       desc: |
-        Architected multiple enterprise scale security solutions & big data logging platforms ingesting TBs daily
+        Architect enterprise scale cloud security solutions & big data logging platforms ingesting 100s TBs daily
       highlights:
-        - Design & build of largest Azure logging pipeline, 8M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS solutions
+        - Design & build of Azure's largest logging pipeline, 20M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS
         - Foster relationships into Azure product dev to influence roadmaps, patching & scale optimizations
         - Innovate tools & techniques, e.g. coded "RAINS" Splunk app to facilitate cloud migration whilst maintaining a single pane of glass for log data with zero-ingest cost and no mass egress of data from the clouds
-        - Global team lead to design, budget, build & operate one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
+        - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & security posture using NIST guidelines and OWASP framework
         - Communicate and knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
     technologies:
