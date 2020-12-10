@@ -4,7 +4,7 @@ career-profile: Summary # default: Career Profile
 awards: Interests # default: Awards
 education: # default: Education
 experience: # default: Work Experience
-achievements: # default: Achievements
+achievements: Tasks # default: Achievements
 technologies: # default: Technologies used
 interests: # default: Interests
 language: # default: Language
