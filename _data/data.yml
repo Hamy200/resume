@@ -57,10 +57,9 @@ experiences:
         - Communicate and knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
     technologies:
       - Azure, KQL
-      - DevOps
-      - SRE
+      - DevOps, SRE
       - Agile, Jira
-      - SWG Proxies
+      - Proxies
       - RedHat
       - Spring Cloud Gateway
       - Collab apps (OneNote, Teams)
