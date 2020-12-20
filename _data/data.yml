@@ -22,7 +22,7 @@ header:
 #    level: Native
 
 summary: |
-      Customer-focused Architect at Morgan Stanley, with 20 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security.
+      Customer-focused Technical Architect at Morgan Stanley, with 20 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security.
 
 education:
   - degree: BSc (Hons) Economics
@@ -41,17 +41,17 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
-        Massive scale enterprise infrastructure architect using DevOps techniques & tooling for automation & orchestration
-        - Engineering lead for cloud observability (logging, traces, metrics) & API management gateways
-        - Previous roles as Cyber Security Infrastructure Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, DLP, Load Balancing & Cloud WAF/DDoS mitigation
+        Massive scale enterprise infrastructure architect using DevOps techniques & tools for automation & orchestration
+        - Engineering lead for cloud observability (logging, traces, metrics, alerting) & API gateways for microservices
+        - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, DLP, Load Balancing & Cloud WAF/DDoS mitigation
         - Splunk'ing since 2006
     achievements:
       desc: |
-        Architecting enterprise scale cloud security solutions & big data logging platforms ingesting 100s TBs daily
+        Desgin & implement enterprise-scale cloud security solutions & big data logging platforms ingesting 100TB+/daily
       highlights:
         - Design & build of Azure's largest logging pipeline, 20M/eps from 20k Azure Kubernetes pods. Saved $Millions over SaaS
         - Foster relationships into Azure product dev to influence roadmaps, patching & scale optimizations
-        - Innovate tools & techniques, e.g. coded "RAINS" Splunk app to facilitate cloud migration whilst maintaining a single pane of glass for log data with zero-ingest cost and no mass egress of data from the clouds
+        - Innovate tools & techniques, e.g. created "RAINS" Splunk python app to ease cloud migration by maintaining a single pane of glass for log data with zero-ingest cost and no mass egress of data from the clouds
         - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & security posture using NIST guidelines and OWASP framework
         - Communicate and knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
@@ -62,8 +62,8 @@ experiences:
       - Agile, Jira
       - SWG Proxies
       - RedHat
-      - Jive
-      - MS apps (OneNote, Teams)
+      - Spring Cloud Gateway
+      - Collab apps (OneNote, Teams)
       - AWS
       - Observability
 
