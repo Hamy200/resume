@@ -145,12 +145,12 @@ skills:
   - category: Observability
     tools:
       - name: Splunk Certified Architect
-      - name: Azure Monitor, Azure Data Explorer
-      - name: Fluent-bit, k8s, logback java
-      - name: DataDog
+      - name: Azure Monitor & Data Explorer
+      - name: Fluent-bit, AKS (k8s), Eventhub, Kafka
+      - name: DataDog, Splunk
       - name: Prometheus/Grafana
       - name: Apache Kafka, Azure Eventhub
-      - name: Azure Sentinel, Splunk ES SIEM
+      - name: Azure Sentinel SIEM & Log Analytics
   - category: Infrastructure
     tools:
       - name: CISSP, Ceh
