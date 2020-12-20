@@ -47,7 +47,7 @@ experiences:
         - Splunk'ing since 2006
     achievements:
       desc: |
-        Desgin & implement enterprise-scale cloud security solutions & big data logging platforms ingesting 100TB+/daily
+        Design & implement enterprise-scale cloud security solutions & big data logging platforms ingesting 100TB+/daily
       highlights:
         - Design & build of Azure's largest log pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
         - Foster relationships into Azure to influence roadmap, patching & scale of Azure Monitor, Sentinel, EventHub, AKS
