@@ -153,8 +153,8 @@ skills:
       - name: Azure Sentinel SIEM & Log Analytics
   - category: Infrastructure
     tools:
-      - name: CISSP, Ceh
-      - name: Microsoft Azure Cloud
+      - name: CISSP, CeH
+      - name: Azure Solutions Architect (Expert)
       - name: Linux
       - name: Python, BASH
       - name: Ansible, GIT
