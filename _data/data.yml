@@ -51,7 +51,7 @@ experiences:
       highlights:
         - Design & build of Azure's largest log pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
         - Foster relationships into Azure to influence roadmap, patching & scale of Azure Monitor, Sentinel, EventHub, AKS
-        - Innovate tools & techniques, e.g. created "RAINS" Splunk python app to ease cloud migration by maintaining a single pane of glass for log data with zero-ingest cost and no mass egress of data from the clouds
+        - Innovate tools & techniques, e.g. created "RAINS" Splunk python app to ease AWS fluent-bit+S3 cloud migration via a single pane of glass for log data with zero-ingest cost and no mass egress of data from the clouds
         - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & security posture using NIST guidelines and OWASP framework
         - Communicate and knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
