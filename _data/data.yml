@@ -144,7 +144,7 @@ awards:
 skills:
   - category: Observability
     tools:
-      - name: Splunk Certified Architect
+      - name: Splunk Architect (Certified)
       - name: Azure Monitor & Data Explorer
       - name: Fluent-bit, AKS (k8s), Eventhub, Kafka
       - name: DataDog, Splunk
@@ -153,8 +153,8 @@ skills:
       - name: Azure Sentinel SIEM & Log Analytics
   - category: Infrastructure
     tools:
-      - name: CISSP, CeH
-      - name: Azure Solutions Architect (Expert)
+      - name: CISSP, CeH (Certified)
+      - name: Azure Solutions Architect (Certified Expert)
       - name: Linux
       - name: Python, BASH
       - name: Ansible, GIT
