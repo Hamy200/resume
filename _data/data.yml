@@ -37,7 +37,7 @@ education:
         Schooling
 
 experiences:
-  - role: Cloud Solutions Architect
+  - role: Cloud Solutions Architect (Azure Certified Expert)
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
@@ -54,18 +54,18 @@ experiences:
         - Innovate tools & techniques, e.g. created "RAINS" Splunk python app to ease AWS & Azure cloud migrations via a single pane of glass for log data with zero-ingest cost and no mass egress of data from the clouds
         - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
-        - Communicate and knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
+        - Communicate and knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster', e.g. https://twitter.com/SelRE5/status/1349278837251702785?s=20
     technologies:
       - Azure
       - DevOps, SRE
-      - Agile, Jira
-      - Proxies
+      - Agile
+      - Web Proxies
       - RedHat
-      - Spring Cloud Gateway
-      - Collab apps (OneNote, Teams)
+      - Spring Cloud Gateway, APIM
+      - Productivity (OneNote, Teams, MindMapping)
       - AWS
-      - Observability
-
+      - Observability solutions
+      
   - role: CTO/Co-Founder
     time: 2008 - 2010
     company: Think Media, Kuala Lumpur
@@ -142,26 +142,25 @@ awards:
 
 
 skills:
+  - category: Infrastructure
+    tools:
+      - name: CeH, CISSP (Certified)
+      - name: Azure Solutions Architect (Certified Expert)
+      - name: Linux Sys Admin
+      - name: Python, BASH
+      - name: Ansible, GIT
+      - name: Docker, Kubernetes (AKS)
+      - name: F5 BigIP, Bluecoat ProxySg
+      - name: Cloudflare, Akama WAF/CDN
   - category: Observability
     tools:
       - name: Splunk Architect (Certified)
       - name: Azure Monitor & Data Explorer
-      - name: Fluent-bit, AKS (k8s), Eventhub, Kafka
+      - name: Fluent-bit, Eventhub, Kafka
       - name: DataDog, Splunk
-      - name: Prometheus/Grafana
-      - name: Apache Kafka, Azure Eventhub
+      - name: Prometheus, Grafana
       - name: Azure Sentinel SIEM & Log Analytics
-  - category: Infrastructure
-    tools:
-      - name: CISSP, CeH (Certified)
-      - name: Azure Solutions Architect (Certified Expert)
-      - name: Linux
-      - name: Python, BASH
-      - name: Ansible, GIT
-      - name: Docker, Kubernetes
-      - name: F5, Bluecoat, Spring Cloud
-      - name: Cloudflare, Akama WAF/CDN
-  - category: others
+  - category: Misc
     tools:
       - Agile
       - Kanban
@@ -173,7 +172,6 @@ skills:
       - Pagerduty
       - Extrahop
       - Wireshark
-      - API Mgt
-      - tcpdump
+      - tcpdump/pcaps
 
 
