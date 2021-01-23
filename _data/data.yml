@@ -42,9 +42,9 @@ experiences:
     company: Morgan Stanley, London
     details: |
         Massive scale enterprise infrastructure architect using DevOps techniques & tools for automation & orchestration
-        - Engineering lead for cloud observability (logging, traces, metrics, alerting) & API gateway management (Spring Cloud, APIM)
+        - Engineering lead for cloud observability (logs, traces, metrics) & API gateway management (Spring, APIM)
         - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, DLP, Load Balancing & Cloud WAF/DDoS mitigation
-        - Splunk'ing since 2006
+        - Splunk'ing since 2006, *nix since 1999
     achievements:
       desc: |
         Implement enterprise-scale cloud security solutions & big data logging platforms ingesting 100TB+/daily
