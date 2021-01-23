@@ -147,7 +147,7 @@ skills:
       - name: Azure Solutions Architect (Certified Expert)
       - name: Linux Sys Admin
       - name: Python, BASH
-      - name: Ansible, git, Github, CI/CD
+      - name: Ansible, git, Github
       - name: Docker, Kubernetes (AKS)
       - name: F5 BigIP, Bluecoat ProxySG
       - name: Cloudflare, Akama WAF/CDN
@@ -171,7 +171,8 @@ skills:
       - KQL, SPL
       - Pagerduty
       - Extrahop
-      - Wireshark, tcpdump
-      - DevOps
+      - Wireshark
+      - Tcpdump
+      - DevOps, CI/CD
 
 
