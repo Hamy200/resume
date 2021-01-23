@@ -160,7 +160,7 @@ skills:
       - name: DataDog, Splunk
       - name: Prometheus, Grafana
       - name: Azure Sentinel SIEM & Log Analytics
-  - category: Misc
+  - category: others
     tools:
       - Agile
       - Kanban
