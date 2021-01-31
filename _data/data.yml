@@ -44,14 +44,14 @@ experiences:
         Massive scale enterprise infrastructure architect using DevOps & SRE for automation & reliability
         - Customer facing migrations, planning, advisory, technical project delivery & operations
         - Cloud infra compute, networking & observability (Splunk'ing since 2006, *nix since 1999)
-        - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, Spring cloud api gateway, F5 Load Balancing & Cloud WAF/DDoS mitigation
+        - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, Spring cloud api gateway, F5 Load Balancing & Akamai Cloud WAF/DDoS mitigation
     achievements:
       desc: |
         Design, architect, develop & maintain enterprise cloud solutions
       highlights:
-        - Build of Azure's largest logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
+        - Build of Azure's largest ever logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
         - Foster trust & relationships into Azure to influence roadmap, patching & scaling of Azure Monitor, Sentinel, EventHub
-        - Innovate & advise on tools & techniques, e.g. innovated "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass for cost savings for big data log analysis of 100TB+/daily
+        - Innovate & advise on tools & techniques, e.g. innovated "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
         - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
         - Communicate & knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
@@ -149,7 +149,7 @@ skills:
       - name: Ansible, git, Github
       - name: Docker, Kubernetes (AKS)
       - name: F5 BigIP, Bluecoat ProxySG
-      - name: Cloudflare, Akama WAF/CDN
+      - name: Cloudflare, Akamai WAF/CDN
   - category: Observability
     tools:
       - name: Splunk Architect (Certified)
