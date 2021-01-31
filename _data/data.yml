@@ -51,7 +51,7 @@ experiences:
       highlights:
         - Build of Azure's largest ever logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
         - Foster trust & relationships into Azure to influence roadmap, patching & scaling of Azure Monitor, Sentinel, EventHub
-        - Innovate & advise on tools & techniques, e.g. innovated "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
+        - Innovate & advise on tools & techniques, e.g. coded "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
         - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
         - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
         - Communicate & knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
@@ -74,7 +74,7 @@ experiences:
       - HTML/CSS, JavaScript
       - SDLC
       - Internet marketing, SEO
-      - Google AdWords
+      - Google AdWords & Analytics
       - Remote teaming
       - Finance
 
@@ -129,7 +129,7 @@ awards:
        Home Automation & DIY, Toastmasters, Conferences, Podcasts
   - name: Volunteering
     description: |
-       School Code Clubs, Charity support
+       Schools Google Code Clubs, Charity support
 
 #interests:
 #  - name: Health - Kung Fu, Tai Chi, Callisthenics
