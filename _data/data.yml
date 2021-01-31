@@ -63,7 +63,6 @@ experiences:
       - RedHat Ansible
       - Proxies
       - Productivity (OneNote, Teams, MindMaps)
-      - Observability
       
   - role: CTO/Co-Founder
     time: 2008 - 2009
