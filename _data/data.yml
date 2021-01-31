@@ -26,7 +26,7 @@ summary: |
 
 education:
   - degree: BSc (Hons) Economics
-    university: Brunel University London
+    university: Brunel University London + 1yr work placement in Germany
     time: 1994 - 1998
     details: |
        Economics, Econometrics, Marketing & Management Modules. Two 6month work experiences in London & Germany.
@@ -93,11 +93,11 @@ experiences:
       - Linux DMZs
       - Operations
 
-  - role: Technical Consultant & Pre-sales Engineer
+  - role: Technical Consultant & Pre-sales Engineer (Frankfurt, Stockholm)
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
-        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined consultancy in disparate business & technical environments, 90% overseas travel included troubleshooting, installs, training & project management 
+        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined consultant in disparate business & technical environments, 90% overseas travel included troubleshooting, installs, training & project managemen, in Sweden & Germany
     technologies:
       - PRINCE2
       - DART
