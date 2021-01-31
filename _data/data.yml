@@ -47,14 +47,14 @@ experiences:
         - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, Spring cloud api gateway, F5 Load Balancing & Akamai Cloud WAF/DDoS mitigation
     achievements:
       desc: |
-        Design, architect, develop & maintain enterprise cloud solutions
+        Design, architecture, deployment & maintainence of production-scale enterprise cloud solutions
       highlights:
-        - Build of Azure's largest ever logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
-        - Foster trust & relationships into Azure to influence roadmap, patching & scaling of Azure Monitor, Sentinel, EventHub
-        - Innovate & advise on tools & techniques, e.g. coded "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
-        - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments, to much customer accolade
-        - Facilitate security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
-        - Communicate & knowledge share via SDLC ADRs (Architectural Decision Records), twiki & jive blogs 'The log of a logaholic - taming the logness monster'
+        - Built Azure's largest ever seen logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
+        - Fostered trust & partnerships with decision makers to influence roadmaps & patching of Azure Monitor, ADX, Sentinel, EventHub
+        - Innovated & advised customers on tools & techniques, e.g. coded "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
+        - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments using IaaC Ansible for streamlined change managemetn, to much customer accolade
+        - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
+        - Communicate & knowledge share via SDLC ADRs (Architectural Decision Records), blueprints, Sphinx documentation-as-code, twiki & jive blog 'The log of a logaholic - taming the logness monster'
         - Proponent of life-long learning, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - Migrations (Azure, AWS)
@@ -97,7 +97,7 @@ experiences:
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
-        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined multi-cultural international consultant for disparate business & technical environments, 90% overseas travel (mostly Sweden, Germany, UAE & Russia) included troubleshooting, installs, training & project management
+        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined multi-cultural international consultant for disparate business & technical environments, 90% overseas travel (mostly Sweden, Germany, UAE & Russia) included troubleshooting, installs, training & project management (PRINCE2 certification)
     technologies:
       - PRINCE2
       - DART
@@ -111,7 +111,7 @@ experiences:
     time: 1999 - 2001
     company: JP Morgan (CSC Pinnacle Alliance), London
     details: |
-        Design, engineer & support JP Morgan’s intranet platform & websites. Consulting to establish design briefs with wireframing & protyping. Support Unix systems monitoring tools & calendaring tools
+        Design, engineer & support JP Morgan’s intranet platform & websites. Consulting to establish design briefs with wireframing & protyping. Support Unix systems monitoring tools & calendaring tools. Certifications in Solaris and AIX.
     technologies:
       - Solaris 8
       - Lotus Notes
