@@ -26,7 +26,7 @@ summary: |
 
 education:
   - degree: BSc (Hons) Economics
-    university: Brunel University London + 1yr work placement in Germany
+    university: Brunel University London + 1yr work Cherry GMBH in Germany
     time: 1994 - 1998
     details: |
        Economics, Econometrics, Marketing & Management Modules. Two 6month work experiences in London & Germany.
@@ -82,7 +82,7 @@ experiences:
     time: 2003 - 2008
     company: Morgan Stanley, London
     details: |
-        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's Web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools, e.g. during Splunk's infancy regularly met their CEO to give feedback to product development
+        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools, e.g. during Splunk's infancy regularly met their CEO for direct input to product development
     technologies:
       - Apache Tomcat
       - IIS
@@ -97,7 +97,7 @@ experiences:
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
-        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined consultant in disparate business & technical environments, 90% overseas travel (mostly Sweden & Germany) included troubleshooting, installs, training & project management
+        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined multi-cultural international consultant for disparate business & technical environments, 90% overseas travel (mostly Sweden, Germany, UAE & Moscow) included troubleshooting, installs, training & project management
     technologies:
       - PRINCE2
       - DART
