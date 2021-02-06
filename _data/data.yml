@@ -41,25 +41,25 @@ experiences:
     time: 2009 - Present
     company: Morgan Stanley, London
     details: |
-        Massive scale enterprise infrastructure architect using DevOps & SRE for automation & reliability
-        - Customer facing migrations, planning, advisory, technical project delivery & operations
+        Deliver strategic enterprise-wide cloud-first infrastructure architecture using DevOps/SRE principles for automation & reliability
+        - Customer facing strategy, migrations, planning, advisory, technical project delivery & operations
         - Cloud infra compute, networking & observability (Splunk'ing since 2006, *nix since 1999)
         - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, Spring cloud api gateway, F5 Load Balancing & Akamai Cloud WAF/DDoS mitigation
     achievements:
       desc: |
-        Design, architecture, deployment & maintainence of production-scale enterprise cloud solutions
+        Design, architecture, deployment & maintainence of production-scale highly-available distributed systems
       highlights:
         - Built Azure's largest ever seen logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
-        - Fostered trust & partnerships with decision makers to influence roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
+        - Fostered trust & collaboration with decision makers to influence roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
         - Innovated & advised customers on tools & techniques, e.g. coded "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
         - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments using IaaC Ansible for streamlined change managemetn, to much customer accolade
         - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
-        - Communicate & knowledge share via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blog 'The log of a logaholic, taming the logness monster'
-        - Proponent of life-long learning, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
+        - Communicated & knowledge share via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blog 'The log of a logaholic, taming the logness monster'
+        - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - Migrations (Azure, AWS)
       - DevOps, SRE, Agile
-      - Cloud compute
+      - IaaS, PaaS
       - RedHat Ansible
       - Proxies
       - Productivity (OneNote, Teams, MindMaps)
@@ -146,7 +146,7 @@ skills:
       - name: Azure Solutions Architect (Certified Expert)
       - name: Linux Sys Admin
       - name: Python, BASH
-      - name: Ansible, git, Github
+      - name: Ansible, git, GitOps
       - name: Docker, Kubernetes (AKS)
       - name: F5 BigIP, Bluecoat ProxySG
       - name: Cloudflare, Akamai WAF/CDN
