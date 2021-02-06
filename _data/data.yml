@@ -126,10 +126,10 @@ awards:
       Kung Fu; Yoga; Tai Chi; Biohacking
   - name: Hobbies
     description: |
-       Home Automation & DIY; Toastmasters (public speaking, leadership & presentations); Conferences; Podcasts
+       Home Automation & DIY <br> Toastmasters (public speaking, leadership & presentations) \n Conferences; Podcasts
   - name: Volunteering
     description: |
-       In-school Code Clubs; Charity work; Communities 1st covid-19
+       In-school Code Clubs; Charity work; \n Communities 1st covid-19
 
 #interests:
 #  - name: Health - Kung Fu, Tai Chi, Callisthenics
