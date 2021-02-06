@@ -22,7 +22,7 @@ header:
 #    level: Native
 
 summary: |
-      Customer-focused Technical Architect at Morgan Stanley, with 20 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security.
+      Customer-focused Technical Architect at Morgan Stanley, with 20 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security in financial services.
 
 education:
   - degree: BSc (Hons) Economics
@@ -82,7 +82,7 @@ experiences:
     time: 2003 - 2008
     company: Morgan Stanley, London
     details: |
-        Technical project management, architecture, engineering & operations of fault tolerant web hosting environments for Morgan Stanley's web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools, e.g. during Splunk's infancy regularly met their CEO for direct input to product development
+        Technical project management, engineering, problem solving & operations of fault tolerant web hosting environments for Morgan Stanley's web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools, e.g. during Splunk's infancy regularly met their CEO for direct input to product development
     technologies:
       - Apache Tomcat
       - IIS
@@ -126,17 +126,17 @@ awards:
       Kung Fu, Tai Chi, Biohacking
   - name: Hobbies
     description: |
-       Home Automation & DIY, Toastmasters, Conferences, Podcasts
+       Home Automation & DIY; Toastmasters (public speaking, leadership & presentations); Conferences; Podcasts
   - name: Volunteering
     description: |
-       Schools-based Google Code Clubs, Charity support, Communities 1st covid vaccine helper
+       In-school Code Clubs; Charity work; Communities 1st covid-19
 
 #interests:
 #  - name: Health - Kung Fu, Tai Chi, Callisthenics
 #    link:
 #  - name: Hobbies - Home Automation, DIY, Toastmasters
 #    link:
-#  - name: Volunteering - Google Code Club, Charity support
+#  - name: Volunteering - Teaching in-school Code Club; Charity work
 
 
 skills:
