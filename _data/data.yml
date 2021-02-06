@@ -43,16 +43,16 @@ experiences:
     details: |
         Deliver strategic enterprise cloud-first infrastructure architecture with DevOps/SRE principles for automation & reliability
         - Customer facing strategy, migrations, planning, advisory, technical project delivery & operations
-        - Hybrid cloud compute, networking, stroage & observability (Splunk'ing since 2006, *nix since 1999)
+        - Hybrid cloud compute, networking, storage & observability (Splunk'ing since 2006, *nix since 1999)
         - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, Spring cloud api gateway, F5 Load Balancing & Akamai Cloud WAF/DDoS mitigation
     achievements:
       desc: |
-        Design, architecture, deployment & maintainence of production-scale highly-available distributed systems
+        Design, architecture, deployment & maintenance of production-scale highly-available distributed systems
       highlights:
         - Built Azure's largest ever seen logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
         - Fostered trust & collaboration with decision makers to influence roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
         - Innovated & advised customers on tools & techniques, e.g. coded "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
-        - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments using IaaC Ansible for streamlined change managemetn, to much customer accolade
+        - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments using IaaC Ansible for streamlined change management, to much customer accolade
         - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
         - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs 'The log of a logaholic, taming the logness monster'
         - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
