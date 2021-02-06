@@ -54,7 +54,7 @@ experiences:
         - Innovated & advised customers on tools & techniques, e.g. coded "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
         - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments using IaaC Ansible for streamlined change managemetn, to much customer accolade
         - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
-        - Communicated & knowledge share via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blog 'The log of a logaholic, taming the logness monster'
+        - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs 'The log of a logaholic, taming the logness monster'
         - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - Migrations (Azure, AWS)
@@ -63,6 +63,7 @@ experiences:
       - RedHat Ansible
       - Proxies
       - Productivity (OneNote, Teams, MindMaps)
+      - GitOps
       
   - role: CTO/Co-Founder
     time: 2008 - 2009
@@ -73,7 +74,7 @@ experiences:
       - LAMP (Linux, Apache, MySQL, PHP)
       - HTML/CSS, JavaScript
       - SDLC
-      - Internet marketing, SEO
+      - Marketing, SEO
       - Google AdWords & Analytics
       - Remote teaming
       - Finance
@@ -126,10 +127,10 @@ awards:
       Kung Fu; Yoga; Tai Chi; Biohacking
   - name: Hobbies
     description: |
-       Home Automation & DIY <br> Toastmasters (public speaking, leadership & presentations) \n Conferences; Podcasts
+       Home Automation & DIY;<br> Toastmasters (public speaking, leadership & presentations);<br> Conferences;<br> Podcasts
   - name: Volunteering
     description: |
-       In-school Code Clubs; Charity work; \n Communities 1st covid-19
+       In-school teaching Code Clubs;<br> Charity work;<br> Communities 1st covid-19
 
 #interests:
 #  - name: Health - Kung Fu, Tai Chi, Callisthenics
