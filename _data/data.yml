@@ -26,10 +26,10 @@ summary: |
 
 education:
   - degree: BSc (Hons) Economics
-    university: Brunel University London<br> 1yr industiral work placement inc. Cherry GMBH in Germany
+    university: Brunel University London<br> +1yr work placements, Germany
     time: 1994 - 1998
     details: |
-       Economics, Econometrics, Marketing & Management Modules. Two 6month work experiences in London & Germany.
+       Economics, Econometrics, Marketing & Management Modules. 1 year industrial placements in London & Germany.
   - degree: GCSEs & A-Levels
     university: Watford Boys Grammar School
     time: 1988 - 1994
@@ -124,13 +124,13 @@ experiences:
 awards:
   - name: Health
     description: |
-      Kung Fu; Yoga; Tai Chi; Biohacking
+      Kung Fu, Tai Chi<br> Yoga, Calisthenics<br> Biohacking
   - name: Hobbies
     description: |
-       Home Automation & DIY;<br> Toastmasters (public speaking, leadership & presentations);<br> Conferences;<br> Podcasts
+       Home Automation, DIY<br> Toastmasters (public speaking, leadership & presentations)<br> Conferences, Podcasts
   - name: Volunteering
     description: |
-       In-school teaching Code Clubs;<br> Charity work;<br> Communities 1st covid-19
+       In-school teaching, Code Clubs<br> Charity work<br> Communities 1st Covid-19
 
 #interests:
 #  - name: Health - Kung Fu, Tai Chi, Callisthenics
