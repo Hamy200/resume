@@ -177,7 +177,7 @@ skills:
       - name: Cloudflare, Akamai WAF/CDN
   - category: ALM, CI/CD & SDLC
     tools:
-      - name: Teraform Enterprise Cloud, terratest 
+      - name: Teraform Enterprise Cloud & Sentinel 
       - name: Harness CD, GitHub Actions CI
       - name: GitHub Enterprise Cloud
       - name: DataDog, Splunk
