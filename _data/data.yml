@@ -57,7 +57,7 @@ experiences:
         - Implemented compliance & cloud security posture management (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones)
         - Broke decision paralysis by introducing ADRs (Architectural Decision Records), documentation-as-code and a culture of collaboration across D&B, breaking silos and Conway's law
         - Created and ran a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
-        - Proponent of life-long learning, mentoring, self-improvement & productivity
+        - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - GCP, AWS 
       - Terraform Cloud, Sentinel
@@ -84,10 +84,9 @@ experiences:
         - Global team lead for the design, budget, build & operation of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments with IaaC self-service automation, to much customer accolade
         - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST and OWASP
         - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs 'The log of a logaholic, taming the logness monster'
-        - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - Migrations (Azure, AWS)
-      - DevOps, SRE, CI/CD, Jenkins, BitBucket/Stash
+      - DevOps, SRE, CI/CD, Jenkins, BitBucket/Stash, Pagerduty
       - Terraform, Ansible
       - API gateways, F5 BigIP, Bluecoat ProxySG
       - Extrahop, Wireshark, Tcpdump
@@ -174,7 +173,7 @@ skills:
       - name: Linux Sys Admin, Python, BASH
       - name: Docker, Kubernetes (AKS, EKS, GKE)
       - name: AWS Control Tower, Azure & GCP landing zones
-      - name: Cloudflare, Akamai WAF/CDN
+      - name: Proxies Cloudflare, Akamai WAF/CDN
   - category: ALM, CI/CD & SDLC
     tools:
       - name: Teraform Enterprise Cloud & Sentinel 
@@ -188,8 +187,8 @@ skills:
       - VSCode
       - Git
       - Vim
+      - Markdown, Plantuml, Mermaid
       - Linux, Mac 
       - Office365
-      - Pagerduty
-      - Azure AD Graph API
-
+      - Azure AD & MS Graph API
+      - Obsidian, Notion, Mindmaps
