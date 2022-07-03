@@ -22,7 +22,7 @@ header:
 #    level: Native
 
 summary: |
-      Customer-obsessed Developer Experience Engineering Platform lead at Dun & Bradstreet, with 23 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security in financial services.
+      Customer-obsessed Developer Experience Engineering Platform lead for AWS, GCP & DevOps, at Dun & Bradstreet, with 23 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security in financial and data services.
 
 education:
   - degree: BSc (Hons) Economics
@@ -41,18 +41,17 @@ experiences:
     time: 2021 - Present
     company: Dun & Bradstreet, London
     details: |
-        Visionary of D&B's game-changing strategic enterprise-wide self-service "DevX" hybrid DevOps enablement platform
-        - Team lead, architect & engineer for reliability, monitoring, and operations to build an internal platform for Cloud & CI/CD tools spanning multiple clouds across many products around the world
-        - As GCP's newest largest customer, worked heavily with Google to create D&B's foundational platform, staffing and strategy to migrate from AWS to GCP
-        - Collaborated at the highest-levels with business leaders, stakeholders & product teams to develop, articulate, and deliver our DevX vision
-        - Recognized across D&B for my innovation, contributions, drive and vision for D&B technology as a whole, to much accolade from the CTO 
+        Visionary for D&B's game-changing strategic enterprise-wide self-service "DevX" hybrid cloud DevOps enablement platform
+        - As GCP's newest largest $1BN customer, am pivotal in planning with Google to create D&B's foundational platform, staffing and strategy to migrate from AWS to GCP
+        - Collaborate at highest-levels with business leaders, stakeholders & product teams to develop, articulate, and deliver the DevX vision
+        - Recognized across D&B for my innovation, contributions, drive and vision for D&B technology as a whole, to much accolade from the CTO
     achievements:
       desc: |
-        Design & deployment of AWS & GCP platforms via self-service automation using infra & policy-as-code for governanance at scale 
+        Team lead, architect & engineer for reliability, monitoring, and operations and build of the curated platform for Infrastrucure-as-code & CI/CD tools spanning Azure, AWS & GCP
       highlights:
         - My tagline: "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."
-        - Global team lead for the design, budget, build & operation of the cloud and DevOps curated opinionated "golden path" Developer Experience control plane
-        - Value stream mapped AWS account provisioning and rebuilt it as a self-service (streamlined from a 6 week process to 45mins)
+        - Global team lead for the design, budget, build & operation of the cloud and DevOps curated opinionated "golden path" Developer Experience control plane with infrastructure & policy-as-code for governanance at scale 
+        - Value stream mapped AWS & GCP account/project provisioning and rebuilt as self-service (streamlined AWS from a 6 week process to 45mins)
         - Implemented compliance & cloud security posture management (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones)
         - Broke decision paralysis by introducing the concept of ADRs (Architectural Decision Records), documentation-as-code and a culture of colloboration across D&B, breaking silos and Conway's law
         - Created and ran a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
@@ -62,7 +61,7 @@ experiences:
       - Terraform Cloud, Sentinel
       - Kubernetes GKE
       - CI/CD, GitHub Actions, Harness.io 
-      - Agile Scrum of Scrums, DevOps, SRE
+      - Agile Scrum of Scrums, Lean, DevOps, SRE
       - Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
       
   - role: Cloud Solutions Architect (Azure Certified Expert)
