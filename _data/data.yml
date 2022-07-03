@@ -187,8 +187,13 @@ skills:
       - VSCode
       - Git
       - Vim
-      - Markdown, Plantuml, Mermaid
+      - Markdown
+      - Plantuml
+      - Mermaid
       - Linux, Mac 
       - Office365
-      - Azure AD & MS Graph API
-      - Obsidian, Notion, Mindmaps
+      - Azure AD
+      - MS Graph API
+      - Obsidian
+      - Notion
+      - Mindmaps
