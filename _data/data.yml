@@ -49,7 +49,7 @@ experiences:
       desc: |
         Global team lead, architect & engineer for reliability, monitoring, and operations and build of the curated platform for Infrastrucure-as-code & CI/CD tools spanning Azure, AWS & GCP
       highlights:
-        - My tagline is "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."
+        - My tagline resonates across D&B "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.." and "CLOUDy with a chance of reins"
         - Designed and built a curated opinionated "golden path" Developer Experience control plane with infrastructure & policy-as-code for governanance at scale 
         - PoCs, evaluation and CTO-level influence that lead to purchases & procurement of GitHub Enterprise, Terraform Enterprise Cloud and Harness CD as part of D&B's strategic global stack, built into DevX
         - Value stream mapped AWS & GCP account/project provisioning and rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
@@ -61,9 +61,9 @@ experiences:
       - GCP, AWS 
       - Terraform Cloud, Sentinel
       - Kubernetes GKE, EKS
-      - CI/CD: GitHub Actions, Harness.io 
-      - Agile: Scrum of Scrums, Lean, DevOps, SRE
-      - DevSecOps: Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
+      - CI/CD GitHub Actions, Harness.io 
+      - Agile Scrum of Scrums, Lean, DevOps, SRE
+      - DevSecOps Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
       
   - role: Cloud Infrastructure Architect (Azure Certified Expert)
     time: 2009 - 2021
