@@ -41,27 +41,29 @@ experiences:
     time: 2021 - Present
     company: Dun & Bradstreet, London
     details: |
-        Deliver strategic enterprise cloud-first infrastructure architecture with DevOps/SRE principles for automation & reliability
-        - Customer facing strategy, migrations, planning, advisory, technical project delivery & operations
-        - Hybrid cloud compute, networking, storage & observability (Splunk'ing since 2006, *nix since 1999)
-        - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, Spring cloud api gateway, F5 Load Balancing & Akamai Cloud WAF/DDoS mitigation
+        Visionary of D&B's game-changing strategic enterprise-wide self-service "DevX" hybrid DevOps enablement platform
+        - Team lead, architect & engineer for reliability, monitoring, and operations to build an internal platform for Cloud & CI/CD tools spanning multiple clouds across many products around the world
+        - As GCP's newest largest customer, worked heavily with Google to create D&B's foundational platform, staffing and strategy to migrate from AWS to GCP
+        - Collaborated at the highest-levels with business leaders, stakeholders & product teams to develop, articulate, and deliver our DevX vision
+        - Recognized across D&B for my innovation, contributions, drive and vision for D&B technology as a whole, to much accolade from the CTO 
     achievements:
       desc: |
-        Design, architecture, deployment & maintenance of production-scale highly-available distributed systems
+        Design & deployment of AWS & GCP platforms via self-service automation using infra & policy-as-code for governanance at scale 
       highlights:
-        - Built Azure's largest logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
-        - Fostered trust & collaboration with decision makers to influence Azure roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
-        - Innovated & advised customers on tools & techniques, e.g. developed idea of "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass with cost optimization for 120TB+/daily logs
-        - Global team lead for the design, budget, build & operation of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments with IaaC self-service automation, to much customer accolade
-        - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST and OWASP
-        - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs 'The log of a logaholic, taming the logness monster'
-        - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
+        - My tagline: "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."
+        - Global team lead for the design, budget, build & operation of the cloud and DevOps curated opinionated "golden path" Developer Experience control plane
+        - Value stream mapped AWS account provisioning and rebuilt it as a self-service (streamlined from a 6 week process to 45mins)
+        - Implemented compliance & cloud security posture management (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones)
+        - Broke decision paralysis by introducing the concept of ADRs (Architectural Decision Records), documentation-as-code and a culture of colloboration across D&B, breaking silos and Conway's law
+        - Created and ran a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
+        - Proponent of life-long learning, mentoring, self-improvement & productivity
     technologies:
-      - Migrations (Azure, AWS)
-      - DevOps, SRE, Kubernetes GitOps
-      - Terraform, Ansible
-      - API gateways, Proxies
-      - Agile Scrum, Productivity (OneNote, Teams, MindMaps)
+      - GCP, AWS architecture 
+      - Terraform Cloud, Sentinel
+      - Kubernetes GKE
+      - CI/CD, GitHub Actions, Harness.io 
+      - Agile Scrum of Scrums, DevOps, SRE
+      - Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
       
   - role: Cloud Solutions Architect (Azure Certified Expert)
     time: 2009 - 2021
@@ -84,9 +86,10 @@ experiences:
         - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - Migrations (Azure, AWS)
-      - DevOps, SRE, Kubernetes GitOps
+      - DevOps, SRE
       - Terraform, Ansible
-      - API gateways, Proxies, Extrahop, Wireshark, Tcpdump
+      - API gateways, Proxies
+      - Extrahop, Wireshark, Tcpdump
       - Agile Scrum, Productivity (OneNote, Teams, MindMaps)
       - Azure Sentinel SIEM & Log Analytics
       - AWS FireLens, S3, EKS
