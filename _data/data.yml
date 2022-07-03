@@ -85,9 +85,9 @@ experiences:
         - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - Migrations (Azure, AWS)
-      - DevOps, SRE
+      - DevOps, SRE, CI/CD, Jenkins, BitBucket/Stash
       - Terraform, Ansible
-      - API gateways, Proxies
+      - API gateways, F5 BigIP, Bluecoat ProxySG
       - Extrahop, Wireshark, Tcpdump
       - Agile Scrum, Productivity (OneNote, Teams, MindMaps)
       - Azure Sentinel SIEM & Log Analytics
@@ -166,31 +166,29 @@ awards:
 skills:
   - category: Infrastructure
     tools:
-      - name: GCP (Google Cloud) foundations & Architecture 
+      - name: GCP (Google Cloud) foundations & architecture 
       - name: Azure Solutions Architect (Certified Expert)
       - name: CeH, CISSP (Certified)
       - name: Linux Sys Admin, Python, BASH
-      - name: Docker, Kubernetes (AKS)
-      - name: F5 BigIP, Bluecoat ProxySG
+      - name: Docker, Kubernetes (AKS, EKS, GKE)
+      - name: AWS Control Tower
+      - name: GKE, EKS, Anthos
       - name: Cloudflare, Akamai WAF/CDN
   - category: ALM, CI/CD & SDLC
     tools:
-      - name: Self-service platform automations
-      - name: Teraform Cloud, Harness CD, GitHub Actions
+      - name: Teraform Enterprise Cloud, terratest 
+      - name: Harness CD, GitHub Actions CI
       - name: GitHub Enterprise Cloud
       - name: DataDog, Splunk
       - name: Hashicorp HCP Vault, Packer
-      - name: GKE, EKS, AWS Control Tower
       - name: Agile Scrum, Jira
   - category: others
     tools:
       - Agile
       - Kanban
       - Scrum
-      - VSCode, Git
-      - Vim
+      - VSCode, Git, Vim
       - Linux, Mac 
       - Office365
-      - KQL, SPL
       - Pagerduty
 
