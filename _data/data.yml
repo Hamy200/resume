@@ -44,7 +44,7 @@ experiences:
         Visionary for D&B's game-changing strategic enterprise-wide self-service "DevX" hybrid cloud DevOps enablement platform
         - Pivotal in deploying GCP, as its newest & largest $1BN customer, creating the foundational platform, staffing and strategy to migrate from Azure/AWS/On-prem to GCP
         - Collaborate at highest-levels with business leaders, stakeholders & product teams to develop, articulate, and deliver the DevX vision
-        - Recognized across D&B for my innovation, contributions, drive and vision for D&B technology as a whole, to much accolade from the CTO
+        - Recognized across D&B for the innovation, drive & contributions to D&B technology as a whole, with much accolade from the CTO
     achievements:
       desc: |
         Global team lead, architect & engineer for reliability, monitoring, and operations and build of the curated platform for Infrastrucure-as-code & CI/CD tools spanning Azure, AWS & GCP
@@ -53,6 +53,7 @@ experiences:
         - Designed and built a curated opinionated "golden path" Developer Experience control plane with infrastructure & policy-as-code for governanance at scale 
         - PoCs, evaluation and CTO-level influence that lead to purchases & procurement of GitHub Enterprise, Terraform Enterprise Cloud and Harness CD as part of D&B's strategic global stack, built into DevX
         - Value stream mapped AWS & GCP account/project provisioning and rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
+        - Lead the "Ninjaneer" Hackaton initiatives to promote learning workshops via the gamifcation of education across the firm
         - Implemented compliance & cloud security posture management (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones)
         - Broke decision paralysis by introducing ADRs (Architectural Decision Records), documentation-as-code and a culture of colloboration across D&B, breaking silos and Conway's law
         - Created and ran a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
