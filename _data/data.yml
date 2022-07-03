@@ -58,12 +58,12 @@ experiences:
         - Created and ran a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
         - Proponent of life-long learning, mentoring, self-improvement & productivity
     technologies:
-      - GCP, AWS architecture 
+      - GCP, AWS 
       - Terraform Cloud, Sentinel
-      - Kubernetes GKE
-      - CI/CD, GitHub Actions, Harness.io 
-      - Agile Scrum of Scrums, Lean, DevOps, SRE
-      - Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
+      - Kubernetes GKE, EKS
+      - CI/CD: GitHub Actions, Harness.io 
+      - Agile: Scrum of Scrums, Lean, DevOps, SRE
+      - DevSecOps: Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
       
   - role: Cloud Solutions Architect (Azure Certified Expert)
     time: 2009 - 2021
