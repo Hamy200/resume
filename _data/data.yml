@@ -37,9 +37,9 @@ education:
         Schooling
 
 experiences:
-  - role: Cloud Solutions Architect (Azure Certified Expert)
-    time: 2009 - Present
-    company: Morgan Stanley, London
+  - role: Developer Experience Engineering Platform Lead (GCP, AWS)
+    time: 2021 - Present
+    company: Dun & Bradstreet, London
     details: |
         Deliver strategic enterprise cloud-first infrastructure architecture with DevOps/SRE principles for automation & reliability
         - Customer facing strategy, migrations, planning, advisory, technical project delivery & operations
@@ -62,6 +62,36 @@ experiences:
       - Terraform, Ansible
       - API gateways, Proxies
       - Agile Scrum, Productivity (OneNote, Teams, MindMaps)
+      
+  - role: Cloud Solutions Architect (Azure Certified Expert)
+    time: 2009 - 2021
+    company: Morgan Stanley, London
+    details: |
+        Deliver strategic enterprise cloud-first infrastructure architecture with DevOps/SRE principles for automation & reliability
+        - Customer facing strategy, migrations, planning, advisory, technical project delivery & operations
+        - Hybrid cloud compute, networking, storage & observability (Splunk'ing since 2006, *nix since 1999)
+        - Previous roles as Cyber Security Analytics (SIEM) Architect, Application Delivery Platform Engineer & Linux Web Infrastructure Engineer. Led global Security Platform Engineering team for Secure Web Gateway proxies, FireEye, Bro/Zeek, Spring cloud api gateway, F5 Load Balancing & Akamai Cloud WAF/DDoS mitigation
+    achievements:
+      desc: |
+        Design, architecture, deployment & maintenance of production-scale highly-available distributed systems
+      highlights:
+        - Built Azure's largest logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
+        - Fostered trust & collaboration with decision makers to influence Azure roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
+        - Innovated & advised customers on tools & techniques, e.g. developed idea of "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass with cost optimization for 120TB+/daily logs
+        - Global team lead for the design, budget, build & operation of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments with IaaC self-service automation, to much customer accolade
+        - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST and OWASP
+        - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs 'The log of a logaholic, taming the logness monster'
+        - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
+    technologies:
+      - Migrations (Azure, AWS)
+      - DevOps, SRE, Kubernetes GitOps
+      - Terraform, Ansible
+      - API gateways, Proxies, Extrahop, Wireshark, Tcpdump
+      - Agile Scrum, Productivity (OneNote, Teams, MindMaps)
+      - Azure Sentinel SIEM & Log Analytics
+      - AWS FireLens, S3, EKS
+      - Prometheus, Grafana, Splunk Architect (Certified)
+      - Azure Monitor, Data Explorer, Fluent-bit, Eventhub, Kafka
       
   - role: CTO/Co-Founder/Software Development Lead
     time: 2008 - 2009
@@ -134,36 +164,31 @@ awards:
 skills:
   - category: Infrastructure
     tools:
-      - name: CeH, CISSP (Certified)
+      - name: GCP (Google Cloud) foundations & Architecture 
       - name: Azure Solutions Architect (Certified Expert)
-      - name: Linux Sys Admin
-      - name: Python, BASH
-      - name: Teraform Cloud, Harness CD, GitHub Actions
+      - name: CeH, CISSP (Certified)
+      - name: Linux Sys Admin, Python, BASH
       - name: Docker, Kubernetes (AKS)
       - name: F5 BigIP, Bluecoat ProxySG
       - name: Cloudflare, Akamai WAF/CDN
-  - category: Observability
+  - category: ALM, CI/CD & SDLC
     tools:
-      - name: Splunk Architect (Certified)
-      - name: Azure Monitor & Data Explorer
-      - name: Fluent-bit, Eventhub, Kafka
+      - name: Self-service platform automations
+      - name: Teraform Cloud, Harness CD, GitHub Actions
+      - name: GitHub Enterprise Cloud
       - name: DataDog, Splunk
-      - name: Prometheus, Grafana
-      - name: AWS FireLens/S3
-      - name: Azure Sentinel SIEM & Log Analytics
+      - name: Hashicorp HCP Vault, Packer
+      - name: GKE, EKS, AWS Control Tower
+      - name: Agile Scrum, Jira
   - category: others
     tools:
       - Agile
       - Kanban
       - Scrum
-      - VSCode
+      - VSCode, Git
       - Vim
-      - Sphinx
+      - Linux, Mac 
+      - Office365
       - KQL, SPL
       - Pagerduty
-      - Extrahop
-      - Wireshark
-      - Tcpdump
-      - DevOps, CI/CD
-
 
