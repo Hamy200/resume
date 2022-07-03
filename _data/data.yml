@@ -185,11 +185,11 @@ skills:
       - name: Agile Scrum, Jira
   - category: others
     tools:
-      - Agile
-      - Kanban
-      - Scrum
-      - VSCode, Git, Vim
+      - VSCode
+      - Git
+      - Vim
       - Linux, Mac 
       - Office365
       - Pagerduty
+      - Azure AD Graph API
 
