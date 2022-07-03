@@ -168,13 +168,12 @@ awards:
 skills:
   - category: Infrastructure
     tools:
-      - name: GCP (Google Cloud) foundations & architecture 
+      - name: GCP (Google Cloud), AWS
       - name: Azure Solutions Architect (Certified Expert)
       - name: CeH, CISSP (Certified)
       - name: Linux Sys Admin, Python, BASH
       - name: Docker, Kubernetes (AKS, EKS, GKE)
-      - name: AWS Control Tower
-      - name: GKE, EKS, Anthos
+      - name: AWS Control Tower, Azure & GCP landing zones
       - name: Cloudflare, Akamai WAF/CDN
   - category: ALM, CI/CD & SDLC
     tools:
@@ -182,7 +181,7 @@ skills:
       - name: Harness CD, GitHub Actions CI
       - name: GitHub Enterprise Cloud
       - name: DataDog, Splunk
-      - name: Hashicorp HCP Vault, Packer
+      - name: Hashicorp HCP Vault, HCP Packer
       - name: Agile Scrum, Jira
   - category: others
     tools:
