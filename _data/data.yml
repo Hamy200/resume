@@ -22,7 +22,7 @@ header:
 #    level: Native
 
 summary: |
-      Customer-focused Technical Architect at Morgan Stanley, with 20 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security in financial services.
+      Customer-obsessed Developer Experience Engineering Platform lead at Dun & Bradstreet, with 23 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security in financial services.
 
 education:
   - degree: BSc (Hons) Economics
@@ -49,62 +49,54 @@ experiences:
       desc: |
         Design, architecture, deployment & maintenance of production-scale highly-available distributed systems
       highlights:
-        - Built Azure's largest ever seen logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
-        - Fostered trust & collaboration with decision makers to influence roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
-        - Innovated & advised customers on tools & techniques, e.g. coded "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass giving cost savings for big data log analysis of 100TB+/daily
-        - Global team lead for the design, budget, build & operation of one of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments using IaaC Ansible for streamlined change management, to much customer accolade
-        - Facilitated security use cases cross-functionally to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST guidelines and OWASP framework
+        - Built Azure's largest logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
+        - Fostered trust & collaboration with decision makers to influence Azure roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
+        - Innovated & advised customers on tools & techniques, e.g. developed idea of "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass with cost optimization for 120TB+/daily logs
+        - Global team lead for the design, budget, build & operation of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments with IaaC self-service automation, to much customer accolade
+        - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST and OWASP
         - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs 'The log of a logaholic, taming the logness monster'
         - Proponent of life-long learning, mentoring, self-improvement & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - Migrations (Azure, AWS)
-      - DevOps, SRE, Agile
-      - IaaS, PaaS
-      - RedHat Ansible
-      - Proxies
-      - Productivity (OneNote, Teams, MindMaps)
-      - GitOps
+      - DevOps, SRE, Kubernetes GitOps
+      - Terraform, Ansible
+      - API gateways, Proxies
+      - Agile Scrum, Productivity (OneNote, Teams, MindMaps)
       
-  - role: CTO/Co-Founder
+  - role: CTO/Co-Founder/Software Development Lead
     time: 2008 - 2009
     company: Think Media, Kuala Lumpur
     details: |
         Launched a web start-up. Moved to Malaysia. Successfully pitched for venture capital funding to facilitate expansion & became number 1 property portal in Malaysia within 1 year (thinkproperty.my). Sold to a publicly listed company
     technologies:
       - LAMP (Linux, Apache, MySQL, PHP)
-      - HTML/CSS, JavaScript
-      - SDLC
-      - Marketing, SEO
-      - Google AdWords & Analytics
-      - Remote teaming
-      - Finance
+      - HTML/CSS, JavaScript, CMS, Git SDLC
+      - Google AdWords & Analytics, Marketing, SEO
+      - Remote teaming, Finace, Management
 
-  - role: Web Infrastructure Engineer & Support
+  - role: Web Infrastructure Software Engineer
     time: 2003 - 2008
     company: Morgan Stanley, London
     details: |
-        Technical project management, engineering, problem solving & operations of fault tolerant web hosting environments for Morgan Stanley's web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools, e.g. during Splunk's infancy regularly met their CEO for direct input to product development
+        Technical engineering, project management, problem solving & operations of fault tolerant web hosting environments for Morgan Stanley's web platforms. Part of the team that built the platform for Google's IPO. Evaluation & deployment of infrastructure tools, e.g. pivotal to Splunk's early R&D directly liasing with the CEO 
     technologies:
-      - Apache Tomcat
-      - IIS
-      - ITIL
+      - Apache Tomcat, IIS
+      - ITIL Operations, Agile, Lean
       - Splunk
       - Datacenters
       - C, Perl, Java
-      - Linux DMZs
-      - Operations
+      - Linux DMZs, Networking
 
   - role: Technical Consultant & Pre-sales Engineer (Frankfurt)
     time: 2001 - 2003
     company: Doubleclick (Google), London
     details: |
-        On-site customer deployments & presales of DoubleClick AdServing Solutions. Multi-disciplined multi-cultural international consultant for disparate business & technical environments, 90% overseas travel (mostly Sweden, Germany, UAE & Russia) included troubleshooting, installs, training & project management (PRINCE2 certification)
+        Multi-disciplined multi-cultural international consultinf for DoubleClick AdServing Solutions to disparate business & technical environments, 90% overseas travel for troubleshooting, installs, training & project management
     technologies:
-      - PRINCE2
+      - PRINCE2 certification
       - DART
-      - HTML/CSS
+      - HTML/CSS, Netscape Iplanet, Apache
       - SQL Server, Oracle
-      - Netscape Iplanet, Apache
       - BEA Weblogic
       - Linux, Win Server
 
@@ -112,12 +104,11 @@ experiences:
     time: 1999 - 2001
     company: JP Morgan (CSC Pinnacle Alliance), London
     details: |
-        Design, engineer & support JP Morgan’s intranet platform & websites. Consulting to establish design briefs with wireframing & prototyping. Support Unix systems monitoring tools & calendaring tools. Certifications in Solaris and AIX.
+        Design, engineer & support JP Morgan’s intranet platform & websites. Consulting to establish design briefs with wireframing & prototyping. Support Unix systems monitoring tools & calendaring tools. 
     technologies:
-      - Solaris 8
+      - Solaris 8 certification, AIX
       - Lotus Notes
-      - HTML
-      - Unix AIX
+      - HTML, Netscape Iplanet
       - Boole & Babbage MAXM System Monitoring
       - Unicenter TNG
 
@@ -147,7 +138,7 @@ skills:
       - name: Azure Solutions Architect (Certified Expert)
       - name: Linux Sys Admin
       - name: Python, BASH
-      - name: Ansible, git, GitOps
+      - name: Teraform Cloud, Harness CD, GitHub Actions
       - name: Docker, Kubernetes (AKS)
       - name: F5 BigIP, Bluecoat ProxySG
       - name: Cloudflare, Akamai WAF/CDN
