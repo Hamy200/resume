@@ -47,13 +47,13 @@ experiences:
         - Recognized across D&B for my innovation, contributions, drive and vision for D&B technology as a whole, to much accolade from the CTO
     achievements:
       desc: |
-        Team lead, architect & engineer for reliability, monitoring, and operations and build of the curated platform for Infrastrucure-as-code & CI/CD tools spanning Azure, AWS & GCP
+        Global team lead, architect & engineer for reliability, monitoring, and operations and build of the curated platform for Infrastrucure-as-code & CI/CD tools spanning Azure, AWS & GCP
       highlights:
-        - My tagline: "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."
-        - Global team lead for the design, budget, build & operation of the cloud and DevOps curated opinionated "golden path" Developer Experience control plane with infrastructure & policy-as-code for governanance at scale 
-        - Value stream mapped AWS & GCP account/project provisioning and rebuilt as self-service (streamlined AWS from a 6 week process to 45mins)
+        - My tagline is "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."
+        - Designed and built a curated opinionated "golden path" Developer Experience control plane with infrastructure & policy-as-code for governanance at scale including evals and procurement of GitHub Enterprise, Terraform Cloud and Harness CD.
+        - Value stream mapped AWS & GCP account/project provisioning and rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
         - Implemented compliance & cloud security posture management (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones)
-        - Broke decision paralysis by introducing the concept of ADRs (Architectural Decision Records), documentation-as-code and a culture of colloboration across D&B, breaking silos and Conway's law
+        - Broke decision paralysis by introducing ADRs (Architectural Decision Records), documentation-as-code and a culture of colloboration across D&B, breaking silos and Conway's law
         - Created and ran a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
         - Proponent of life-long learning, mentoring, self-improvement & productivity
     technologies:
