@@ -64,7 +64,8 @@ experiences:
       - Kubernetes GKE, EKS
       - CI/CD GitHub Actions, Harness.io 
       - Agile Scrum of Scrums, Lean, DevOps, SRE
-      - DevSecOps Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
+      - DevSecOps Checkmarx, Snyk
+      - GitHub Advanced Security (CodeQL, dependabot)
       
   - role: Cloud Infrastructure Architect - VP (Azure Certified Expert)
     time: 2009 - 2021
