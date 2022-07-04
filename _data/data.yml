@@ -52,7 +52,7 @@ experiences:
       highlights:
         - Designed and built a curated opinionated platform <b>"golden path"</b> control plane for infrastructure-as-code, CI/CD & policy-as-code governance at scale to reduce developer cognitive load
         - My taglines resonate across D&B <b>"The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."</b> and "CLOUDy with a chance of reins"
-        - PoCs, evaluation and C-level influence to purchase & procure D&B's strategic global stack, such as GitHub Enterprise, Terraform Enterprise Cloud & Harness CD
+        - PoCs, evaluation and <b>C-level influence</b> to purchase & procure D&B's strategic global stack, such as GitHub Enterprise, Terraform Enterprise Cloud & Harness CD
         - <b>Value stream mapped</b> AWS & GCP account/project provisioning and rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
         - Lead the <b>"Ninjaneer" Hackaton "get a-head in the cloud"</b> initiatives to promote learning workshops via the gamification of education across the firm
         - Implemented compliance & <b>cloud security posture management</b> (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones, sandboxes)
