@@ -43,21 +43,21 @@ experiences:
     company: Dun & Bradstreet, London
     details: |
         Visionary for D&B's game-changing strategic enterprise-wide self-service "DevX" hybrid cloud DevOps enablement platform
-        - Pivotal in deploying GCP, as its newest & largest $1bn customer, creating the foundational platform, staffing and strategy to migrate off Azure/AWS/On-prem
-        - Collaboration at highest-levels with business leaders, stakeholders & product teams to develop, articulate, and deliver the DevX vision
-        - Recognized across D&B for the innovation, drive & contributions to D&B technology as a whole, to much accolade from the CTO
+        - Pivotal in deploying GCP, as its newest & largest <b>$1bn</b> customer, creating the foundational platform, staffing and strategy to migrate off Azure/AWS/On-prem
+        - Collaboration at highest-levels with business leaders, stakeholders & product teams to develop, articulate, and deliver the <b>DevX vision</b>
+        - Recognized across D&B for the innovation, drive & contributions to D&B technology as a whole, to much <b>accolade from the CTO</b>
     achievements:
       desc: |
         Global team lead, architect & engineer for reliability, monitoring, and operations and build of platforms-as-a-product for multi-cloud developer tooling
       highlights:
-        - Designed and built a curated opinionated platform "golden path" control plane for infrastructure-as-code, CI/CD & policy-as-code governance at scale 
-        - My taglines resonate across D&B "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.." and "CLOUDy with a chance of reins"
+        - Designed and built a curated opinionated platform <b>"golden path"</b> control plane for infrastructure-as-code, CI/CD & policy-as-code governance at scale to reduce developer cognitive load
+        - My taglines resonate across D&B <b>"The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."</b> and "CLOUDy with a chance of reins"
         - PoCs, evaluation and C-level influence to purchase & procure D&B's strategic global stack, such as GitHub Enterprise, Terraform Enterprise Cloud & Harness CD
-        - Value stream mapped AWS & GCP account/project provisioning and rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
-        - Lead the "Ninjaneer" Hackaton "get a-head in the cloud" initiatives to promote learning workshops via the gamification of education across the firm
-        - Implemented compliance & cloud security posture management (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones, sandboxes)
-        - Broke decision paralysis by introducing ADRs (Architectural Decision Records), documentation-as-code and a culture of collaboration across D&B, breaking silos and Conway's law
-        - Launched a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
+        - <b>Value stream mapped</b> AWS & GCP account/project provisioning and rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
+        - Lead the <b>"Ninjaneer" Hackaton "get a-head in the cloud"</b> initiatives to promote learning workshops via the gamification of education across the firm
+        - Implemented compliance & <b>cloud security posture management</b> (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones, sandboxes)
+        - Broke decision paralysis by introducing ADRs (<b>Architectural Decision Records</b>), documentation-as-code and a culture of collaboration across D&B, breaking silos and Conway's law
+        - Launched a light-weight <b>architecture review process</b> (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
     technologies:
       - GCP, AWS 
       - Terraform Cloud, Sentinel
@@ -78,12 +78,12 @@ experiences:
       desc: |
         Design, architecture, deployment & maintenance of production-scale highly-available distributed systems
       highlights:
-        - Built Azure's largest logging pipeline, 20M/eps from 20k Kubernetes pods. Saved $Millions over SaaS
-        - Fostered trust & collaboration with decision makers to influence Azure roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
-        - Innovated & advised customers on tools & techniques, e.g. developed idea of "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass with cost optimization for 120TB+/daily logs
+        - Built Azure's largest logging pipeline, 20M/eps from 20k Kubernetes pods. <b>Saved $Millions over SaaS logging platforms</b>
+        - Fostered trust & collaboration with decision makers to <b>influence Azure</b> roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
+        - Innovated & advised customers on tools & techniques, e.g. developed idea of "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass with cost optimization for <b>120TB+/daily logs</b>
         - Global team lead for the design, budget, build & operation of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments with IaaC self-service automation, to much customer accolade
-        - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using NIST and OWASP
-        - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs 'The log of a logaholic, taming the logness monster'
+        - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using <b>NIST and OWASP</b>
+        - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs <b>'The log of a logaholic, taming the logness monster'</b>
     technologies:
       - Migrations (Azure, AWS)
       - DevOps, SRE, CI/CD, Jenkins, BitBucket/Stash, Pagerduty
