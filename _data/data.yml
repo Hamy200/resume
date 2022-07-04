@@ -22,7 +22,8 @@ header:
 #    level: Native
 
 summary: |
-      Customer-obsessed Developer Experience Engineering Platform lead for AWS, GCP & DevOps, at Dun & Bradstreet, with 23 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security in financial and data services.
+      Customer-obsessed Developer Experience Engineering Platform lead for AWS, GCP & DevOps, at Dun & Bradstreet, with 23 years industry experience. <br>Demonstrated mastery in delivery of engineering solutions optimized for cost, reliability & security in financial and data services.<br>Proponent of life-long learning, mentoring, self-improvement, health & productivity, e.g. https://t.co/eBBzCCerHm
+
 
 education:
   - degree: BSc (Hons) Economics
@@ -37,7 +38,7 @@ education:
         Schooling
 
 experiences:
-  - role: Developer Experience Engineering Platform Lead (GCP, AWS)
+  - role: Developer Experience Engineering Platform Lead - VP (GCP, AWS)
     time: 2021 - Present
     company: Dun & Bradstreet, London
     details: |
@@ -57,7 +58,6 @@ experiences:
         - Implemented compliance & cloud security posture management (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones, sandboxes)
         - Broke decision paralysis by introducing ADRs (Architectural Decision Records), documentation-as-code and a culture of collaboration across D&B, breaking silos and Conway's law
         - Launched a light-weight architecture review process (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
-        - Proponent of life-long learning, mentoring, self-improvement, health & productivity, e.g. https://t.co/eBBzCCerHm
     technologies:
       - GCP, AWS 
       - Terraform Cloud, Sentinel
@@ -66,7 +66,7 @@ experiences:
       - Agile Scrum of Scrums, Lean, DevOps, SRE
       - DevSecOps Checkmarx, Snyk, GitHub Advanced Security (CodeQL, dependabot)
       
-  - role: Cloud Infrastructure Architect (Azure Certified Expert)
+  - role: Cloud Infrastructure Architect - VP (Azure Certified Expert)
     time: 2009 - 2021
     company: Morgan Stanley, London
     details: |
