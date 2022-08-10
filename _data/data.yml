@@ -38,26 +38,26 @@ education:
         Schooling
 
 experiences:
-  - role: Developer Experience Engineering Platform Lead - VP (GCP, AWS)
+  - role: Developer Experience Engineering Platform - VP - GCP, AWS, Azure
     time: 2021 - Present
     company: Dun & Bradstreet, London
     details: |
-        Visionary for D&B's game-changing strategic enterprise-wide self-service "DevX" hybrid cloud DevOps enablement platform
-        - Pivotal in deploying GCP, as its newest & largest <b>$1bn</b> customer, creating the foundational platform, staffing and strategy to migrate off Azure/AWS/On-prem
-        - Collaboration at highest-levels with business leaders, stakeholders & product teams to develop, articulate, and deliver the <b>DevX vision</b>
-        - Recognized across D&B for the innovation, drive & contributions to D&B technology as a whole, to much <b>accolade from the CTO</b>
+        Visionary for D&B's strategic enterprise-wide self-service <b>DevX</b> hybrid cloud DevOps enablement platform
+        - Lead GCP foundational landing zone platforms, staffing and strategy to migrate off Azure/AWS/On-prem, as Google Cloud's largest <b>$1bn<b> customer
+        - Engage C-level technology leaders, stakeholders & product teams to develop, articulate, and <b>deliver the DevX vision</b>
+        - Praise and gratitude received from clients, CTO and CISO for <b>game-changing innovation</b>, drive & leadership for D&B's infrastructure strategy
     achievements:
       desc: |
-        Global team lead, architect & engineer for reliability, monitoring, and operations to execute platforms-as-a-product for multi-cloud developer tooling
+        Global team lead to design, architect & engineer for reliability, monitoring, & operations of platforms-as-a-product <b>multi-cloud developer tooling</b>
       highlights:
-        - Designed and built a curated opinionated platform <b>"golden path"</b> control plane for infrastructure-as-code, CI/CD & policy-as-code governance at scale to reduce developer cognitive load
-        - My taglines resonate across D&B <b>"The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.."</b> and "CLOUDy with a chance of reins"
-        - PoCs, evaluation and <b>C-level influence</b> to purchase & procure D&B's strategic global stack, such as GitHub Enterprise, Terraform Enterprise Cloud & Harness CD
-        - <b>Value stream mapped</b> AWS & GCP account/project provisioning and rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
+        - Designed & built a curated opinionated platform <b>"golden path"</b> control plane for infrastructure-as-code, CI/CD & policy-as-code governance at scale to reduce developer cognitive load
+        - PoCs, evaluation & <b>C-level influence</b> to purchase & procure D&B's strategic global stack, inc. GitHub Enterprise, Terraform Cloud & Harness.io
+        - <b>Value stream mapped</b> AWS & GCP account/project provisioning & rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
         - Lead the <b>"Ninjaneer" Hackaton "get a-head in the cloud"</b> initiatives to promote learning workshops via the gamification of education across the firm
         - Implemented compliance & <b>cloud security posture management</b> (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones, sandboxes)
-        - Broke decision paralysis by introducing ADRs (<b>Architectural Decision Records</b>), documentation-as-code and a culture of collaboration across D&B, breaking silos and Conway's law
+        - Broke decision paralysis by introducing ADRs (<b>Architectural Decision Records</b>), documentation-as-code & a culture of collaboration using MS Teams across D&B, breaking silos & Conway's law
         - Launched a light-weight <b>architecture review process</b> (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
+        - Created my own branding, logos & taglines "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.." that is "CLOUDy with a chance of reins"
     technologies:
       - GCP, AWS 
       - Terraform Cloud, Sentinel
@@ -83,7 +83,7 @@ experiences:
         - Fostered trust & collaboration with decision makers to <b>influence Azure</b> roadmaps, e.g. Azure Monitor, ADX, Sentinel, EventHub
         - Innovated & advised customers on tools & techniques, e.g. developed idea of "RAINS" Splunk python app to ease AWS & Azure migrations via a single pane of glass with cost optimization for <b>120TB+/daily logs</b>
         - Global team lead for the design, budget, build & operation of Splunk's largest state-of-the-art Enterprise Security (ES) SIEM deployments with IaaC self-service automation, to much customer accolade
-        - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using <b>NIST and OWASP</b>
+        - Facilitated security use cases to control threats, prioritize risks, automate compliance & cloud security posture management (guardrails, landing zones) using <b>NIST & OWASP</b>
         - Communicated & shared knowledge via ADRs (Architectural Decision Records), blueprints, Sphinx/PlantUML/graphviz documentation-as-code, twiki & jive blogs <b>'The log of a logaholic, taming the logness monster'</b>
     technologies:
       - Migrations (Azure, AWS)
