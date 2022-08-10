@@ -57,7 +57,7 @@ experiences:
         - Implemented compliance & <b>cloud security posture management</b> (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones, sandboxes)
         - Broke decision paralysis by introducing ADRs (<b>Architectural Decision Records</b>), documentation-as-code & a culture of collaboration using MS Teams across D&B, breaking silos & Conway's law
         - Launched a light-weight <b>architecture review process</b> (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
-        - Created my own branding, logos & taglines "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.." that is "CLOUDy with a chance of reins"
+        - <b>Created my own branding, logos & taglines</b> "The DevX Platform..a self-service developer experience to enable value, faster, safer & happier.." that is "CLOUDy with a chance of reins"
     technologies:
       - GCP, AWS 
       - Terraform Cloud, Sentinel
