@@ -53,7 +53,7 @@ experiences:
         - Designed & built a curated opinionated platform <b>"golden path"</b> control plane for infrastructure-as-code, CI/CD & policy-as-code governance at scale to reduce developer cognitive load
         - PoCs, evaluation & <b>C-level influence</b> to purchase & procure D&B's strategic global stack, inc. GitHub Enterprise, Terraform Cloud & Harness.io
         - <b>Value stream mapped</b> AWS & GCP account/project provisioning & rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
-        - Lead the <b>"Ninjaneer" Hackaton "get a-head in the cloud"</b> initiatives to promote learning workshops via the gamification of education across the firm
+        - Lead the <b>"Ninjaneer" Hackathon "get a-head in the cloud"</b> initiatives to promote learning workshops via the gamification of education across the firm
         - Implemented compliance & <b>cloud security posture management</b> (guardrails via AWS Control Tower SCPs, Sentinel, GCP Policy, landing zones, sandboxes)
         - Broke decision paralysis by introducing ADRs (<b>Architectural Decision Records</b>), documentation-as-code & a culture of collaboration using MS Teams across D&B, breaking silos & Conway's law
         - Launched a light-weight <b>architecture review process</b> (ARP) to advocate & formalize patterns for resilience, availability, security, monitoring & alerting
