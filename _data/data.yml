@@ -168,9 +168,9 @@ awards:
 skills:
   - category: Infrastructure
     tools:
-      - name: GCP (Google Cloud), AWS
+      - name: AWS Certified Developer (Associate)
       - name: Azure Solutions Architect (Certified Expert)
-      - name: CeH, CISSP (Certified)
+      - name: CeH, CISSP (Certified), GCP (Google Cloud)
       - name: Linux Sys Admin, Python, BASH
       - name: Docker, Kubernetes (AKS, EKS, GKE)
       - name: AWS Control Tower, Azure & GCP landing zones
