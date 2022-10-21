@@ -50,7 +50,7 @@ experiences:
       desc: |
         Global team lead to design, architect & engineer for reliability, monitoring, & operations of platforms-as-a-product <b>multi-cloud developer control plane tooling</b>
       highlights:
-        - Design & build of internal developer platform (python REST flask app) for curated opinionated <b>"golden paths"</b> of infrastructure-as-code, CI/CD & policy-as-code governance at scale to reduce developer cognitive load
+        - Design & build of internal developer platform (python REST flask app) for curated opinionated <b>"golden paths"</b> of infrastructure-as-code, CI/CD & policy-as-code at scale to increase developer velocity & reduce cognitive load
         - PoCs, evaluation & <b>C-level influence</b> to purchase & procure D&B's strategic global stack, inc. GitHub Enterprise, Terraform Cloud & Harness.io
         - <b>Value stream mapped</b> AWS & GCP account/project provisioning & rebuilt into self-service (streamlined AWS from a 6 week process to 45mins)
         - Lead the <b>"Ninjaneer" Hackathon "get a-head in the cloud"</b> initiatives to promote learning workshops via the gamification of education across the firm
