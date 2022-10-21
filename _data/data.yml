@@ -177,7 +177,7 @@ skills:
       - name: Proxies Cloudflare, Akamai WAF/CDN
   - category: ALM, CI/CD & SDLC
     tools:
-      - name: TDD, tox, pytest, Makefiles
+      - name: TDD, tox, pytest, flask
       - name: Harness.io CD, GitHub Actions CI
       - name: GitHub Enterprise Cloud, BitBucket, Jenkins
       - name: DataDog, Splunk, Cloudwatch
