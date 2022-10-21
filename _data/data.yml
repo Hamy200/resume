@@ -42,8 +42,8 @@ experiences:
     time: 2021 - Present
     company: Dun & Bradstreet, London
     details: |
-        Visionary for D&B's strategic enterprise-wide self-service DevX hybrid cloud DevOps enablement platform
-        - Lead GCP foundational landing zone platforms, staffing and strategy to migrate off Azure/AWS/On-prem, as Google Cloud's largest $1bn customer
+        Visionary for D&B's strategic enterprise self-service DevX cloud DevOps enablement platform
+        - Lead AWS & GCP foundational landing zone platforms, staffing and strategy to migrate off Azure/AWS/On-prem, as Google Cloud's largest $1bn customer
         - Engage C-level technology leaders, stakeholders & product teams to develop, articulate, and deliver the DevX vision
         - Praise and gratitude received from clients, CTO and CISO for game-changing innovation, drive & leadership for D&B's infrastructure strategy
     achievements:
@@ -179,14 +179,13 @@ skills:
     tools:
       - name: TDD, tox, pytest, flask
       - name: Harness.io CD, GitHub Actions CI
-      - name: GitHub Enterprise Cloud, BitBucket, Jenkins
+      - name: GitHub Enterprise Cloud, Actions, BitBucket, Jenkins
       - name: DataDog, Splunk, Cloudwatch
-      - name: Hashicorp HCP Vault, HCP Packer, Teraform Enterprise Cloud & Sentinel 
+      - name: Hashicorp HCP Vault, Packer, Teraform Enterprise Cloud & Sentinel 
       - name: Agile Scrum, Jira
   - category: others
     tools:
-      - VSCode
-      - Git
+      - VSCode, Git
       - Vim
       - Markdown
       - Plantuml, Mermaid
