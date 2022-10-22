@@ -3,24 +3,18 @@
 # Site Settings
 
 # SEO plugin
-title: Resume of Kash Chowdhree
-author: Kash Chowdhree
-tagline: DevX Cloud DevOps Platforms
+title: Resume of Hamza Chowdhree
+author: Hamza Chowdhree
+tagline: Student coder
 description: Resume (shortened Curriculum Vitae) 
 
-url: "https://kash.chowdhree.com"
+url: "https://hamza.chowdhree.com"
 baseurl: "/" 
-
-twitter:
-  username: SelRE5
-  card: summary
 
 social:
   links:
-    - https://twitter.com/SelRE5
-    - https://www.linkedin.com/in/kash-chowdhree-34a8028
-    - https://github.com/kchowdhree
-    - https://kash.chowdhree.com
+    - https://github.com/Hamy200
+    - https://hamza.chowdhree.com
 
 google_site_verification: # Put google verification tag here
 google_analytics: G-7M5QP5LNSL
