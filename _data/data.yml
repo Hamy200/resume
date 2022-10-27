@@ -77,22 +77,11 @@ skills:
       - name: Docker, Kubernetes (AKS, EKS, GKE)
       - name: AWS Control Tower, Azure & GCP landing zones
       - name: Proxies Cloudflare, Akamai WAF/CDN
-  - category: ALM, CI/CD & SDLC
-    tools:
-      - name: TDD, tox, pytest, flask
-      - name: Harness.io CD, GitHub Actions CI
-      - name: GitHub Enterprise Cloud, Actions, BitBucket, Jenkins
-      - name: DataDog, Splunk, Cloudwatch
-      - name: Hashicorp HCP Vault, Packer, Teraform Enterprise Cloud & Sentinel 
-      - name: Agile Scrum, Jira
   - category: others
     tools:
       - VSCode, Git
       - Vim
       - Markdown
-      - Plantuml, Mermaid
+      
       - Linux, Mac 
-      - Azure AD
-      - MS365 & Graph API
-      - Obsidian
-      - Wardley & mind maps
+
