@@ -36,9 +36,9 @@ experiences:
     company: Ultromics
     details: |
         Helped make an A.I program that sorts out ECGs based on whether the dicom is a doppler or a non doppler
-    achievements:
-      desc: |
-        Global team lead to design, architect & engineer for reliability, monitoring, & operations of platforms-as-a-product <b>multi-cloud developer control plane tooling</b>
+    #achievements:
+      #desc: |
+        #
       highlights:
         - Successfully achieved 100% accuracy on the sorting of the images
     technologies:
