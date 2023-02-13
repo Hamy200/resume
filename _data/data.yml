@@ -27,8 +27,8 @@ summary: |
 
 education:
   - degree: GCSEs
-    university: Watford Boys Grammar School
-   -degree: Currently doing A Levels
+  - university: Watford Boys Grammar School
+  - degree: Currently doing A Levels
 
 experiences:
   - role: 
@@ -36,13 +36,10 @@ experiences:
     company: Ultromics
     details: |
         Helped make an A.I program that sorts out ECGs based on whether the dicom is a doppler or a non doppler
-    #achievements:
-      #desc: |
-        #
-      highlights:
+    highlights:
         - Successfully achieved 100% accuracy on the sorting of the images
     technologies:
-      - Python
+      -Python
       -SCiKit learn
       -SVM
       
