@@ -7,9 +7,9 @@ header:
   github: Hamy200
   codewars: Hamy200
 summary: |
-  <ul><li>A coding hobbyist</li></ul>
+  <ul><li>Diligent and collaborative computing student with problem-solving skills and a love for learning.</li></ul>
 education:
-  - degree: Currently doing 3 A Levels
+  - degree: Studying 3 A Levels
     university: Computing - Maths - Economics
     time: Watford Boys Grammar School
   - degree: Harvard
@@ -23,20 +23,20 @@ education:
 experiences:
   - role: Maths class helper
     time: September 2022 - Present
-    details: >
+    details:
       Volunteered as a maths tutor weekly for a year 7 class, improving
       students' understanding of the subject. Strong communication skills and
       passion for mathematics contributed to positive impact on students'
       academic performance.
   - role: Programming Club assistant
     time: October 2022 - Present
-    details: >
+    details:
       Assisted teacher during lunchtime GCSE Python club by explaining how to
       solve problems students were facing and setting programming challenges
   - role: A.I python data analytics engineer
     time: July 2022 (Work Experience)
     company: Ultromics
-    details: >
+    details:
       Helped make an A.I program that classifies ECG scans based on whether
       the dicom is a doppler or a non doppler
     highlights:
@@ -47,17 +47,19 @@ experiences:
       - SVM
 awards:
   - name: Hobbies
-    description: >
-      - Programming, Learning Python, HTML & CSS, Javascript
+    description:
+      <ul>
+      <li>Programming, Learning Python, HTML & CSS, Javascript</li>
 
-      - Running a Minecraft server using Docker, this hobby has allowed me to gain experience in server management, Docker containerization, and network configuration. I created and maintained the server for friends and family to play on, ensuring high availability and low latency for an optimal gaming experience
+      <li>Running a Minecraft server using Docker, this hobby has allowed me to gain experience in server management, Docker containerization, and network configuration. I created and maintained the server for friends and family to play on, ensuring high availability and low latency for an optimal gaming experience</li>
 
-      - Currently preparing for Duke Of Edinburgh Gold Award (Increasing endurance, strength through various activities)
+      <li>Currently preparing for Duke Of Edinburgh Gold Award (Increasing endurance, strength through various activities)</li>
 
-      - Trumpet Grade 5, working towards Grade 6
+      <li>Trumpet Grade 5, working towards Grade 6</li>
 
-      - Kickboxing Martial Arts
+      <li>Kickboxing Martial Arts</li>
 
-      - Baseball (Hertfordshire club) 
+      <li>Baseball (Hertfordshire club) </li>
 
-      - Going to the gym to improve overall fitness
+      <li>Going to the gym to improve overall fitness</li>
+      </ul>
