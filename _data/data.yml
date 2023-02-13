@@ -26,16 +26,41 @@ summary: |
 
 
 education:
-  - degree: GCSEs
   - university: Watford Boys Grammar School
-  - degree: Currently doing A Levels
+  - degree: Currently doing 3 A Levels
+            - Computing
+            - Maths
+            - Economics
+  - degree: Harvard Computer Science Course
+            - Completed CS50 10 Week Course which included Computational Thinking, Programming in C, Python, Javascript, HTML and CSS
+            - Certificate ()
+  - university: Watford Boys Grammar School
+  - degree: GCSEs
+            - Maths 9
+            - Further Maths 9
+            - Computer Science 9
+            - Biology 9
+            - Chemistry 9
+            - Physics 9
+            - Music 9
+            - French 8
+            - English Literature 7
+            - English Language 7
+            - History 7
+            
+            
+  
+
 
 experiences:
-  - role: 
-    time: 2021 - Present
+  -role: 
+  - time: September 2022 - Present
+  
+  - role: A.I python data analytics engineer
+    time: July 2022 (Work Experience)
     company: Ultromics
     details: |
-        Helped make an A.I program that sorts out ECGs based on whether the dicom is a doppler or a non doppler
+        Helped make an A.I program that sorts out ECG scans based on whether the dicom is a doppler or a non doppler
     highlights:
         - Successfully achieved 100% accuracy on the sorting of the images
     technologies:
