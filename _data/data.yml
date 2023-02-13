@@ -22,17 +22,17 @@ summary: |
 
 
 education:
-  - university: Watford Boys Grammar School
-    degree: Currently doing 3 A Levels
+  - degree: Watford Boys Grammar School
+    university: Currently doing 3 A Levels
             - Computing
             - Maths
             - Economics
-  - university: Harvard
-    degree: Harvard Computer Science Course
+  - degree: Harvard
+    university: Harvard Computer Science Course
             - Completed CS50 10 Week Course which included Computational Thinking, Programming in C, Python, Javascript, HTML and CSS
             - Certificate ()
-  - university: Watford Boys Grammar School
-    degree: GCSEs
+  - degree: Watford Boys Grammar School
+    university: GCSEs
             - Maths 9
             - Further Maths 9
             - Computer Science 9
