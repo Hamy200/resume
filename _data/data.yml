@@ -9,18 +9,19 @@ header:
 summary: |
   <ul><li>Diligent and collaborative A-level computing student with problem-solving skills and a love for learning.</li></ul>
 education:
-  - degree: Studying 3 A-levels
-    university: Computing - Maths - Economics
-    time: Watford Boys Grammar School
-  - degree: Harvard Computer Science 
-    university: Passed CS50 Course 10 Week Course
-    time: Computational Thinking, Programming in C, Python,
-      Javascript, HTML and CSS
   - degree: GCSE Grade A* & As 
     university: Grade A* (9) in Maths, Further Maths, Computer Science, Biology, 
       Chemistry, Physics, Music<br>Grade A (8 & 7s) in French, English Literature, 
       English Language, History
     time: Watford Boys Grammar School
+  - degree: Harvard Computer Science 
+    university: Passed the CS50 10 week course
+    time: Computational Thinking, Programming in C, Python,
+      Javascript, HTML and CSS
+  - degree: Studying 3 A-levels
+    university: Computing - Maths - Economics
+    time: Watford Boys Grammar School
+
 
 experiences:
   - role: AI and Python-focused Data Analytics Engineer
@@ -28,7 +29,7 @@ experiences:
     company: Ultromics.com, Oxford
     details: |
       Ultromics is an Artificial Intelligence (AI) startup using digital health technology to pioneer the development of transformative heart failure diagnostics
-      - Worked in the Oxford offices, and resided nearby for the work exerpience
+      - Worked daily in the Oxford offices, moved to Oxford & resided nearby for the work period
       - Helped code an AI program that classifies ECG scans based on whether the dicom is a doppler or a non doppler
       - Successfully achieved 100% accuracy on the sorting of the images
       - Made a strong impression on the team, leading to an offer to continue the project remotely over the summer holidays with the use of a laptop supplied by the company
@@ -41,7 +42,7 @@ experiences:
       - Machine Learning
       - AI
 
-  - role:  Programming Club assistant
+  - role:  Programming Club Assistant
     time: October 2022 - Present
     company: Watford Grammar School
     details: |
@@ -52,7 +53,7 @@ experiences:
       - Teaching
       - Problem solving
       
-  - role:  Maths class helper
+  - role:  Maths class Helper
     time: September 2022 - Present
     company: Watford Grammar School
     details: |
@@ -71,7 +72,7 @@ awards:
       Kickboxing Martial Arts<br> Baseball (Hertfordshire club)<br>Regular Gym Fitness <br>Duke Of Edinburgh Gold Award preparation (buidling endurance & strength)
   - name: Hobbies
     description: |
-       Trumpet Grade 5, working to Grade 6<<br> Gaming, Podcasts<br>Programming, Learning Python, HTML & CSS, Javascript<br>Run a Minecraft server using Docker containerization across AWS, GCP & Oracle Cloud Virtual Machines and VPC networking<br>Create & maintain the server for friends & family to play on, whilst ensuring high availability & low latency/jitter for an optimal gaming experience
+       Trumpet Grade 5, working to Grade 6<<br> Gaming, Podcasts<br>Programming in Python, HTML/CSS & Javascript<br>Run a Minecraft server using Docker containers in AWS, GCP & Oracle Cloud VMs with VPC networking<br>Create & maintain the server for friends & family to play on, whilst ensuring high availability & low latency/jitter for an optimal gaming experience
   - name: Volunteering
     description: |
        In-school teaching, Code Clubs, Fatimid Foundation charity website and IT help
