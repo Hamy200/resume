@@ -52,8 +52,11 @@ experiences:
     time: January 2023
     company: Watford Grammar School
     details: |
-      Played a leading role in a group progamming project. Designed and developed a Node JS Application and presented it to the class. The task was to create an flashcard application for GCSE students. Was the principal coder and helped explain the code written to peers.
-      
+      <ul>
+          </li>Led a group programming project to design and develop a Node JS Application aimed at GCSE students, resulting in a successful presentation to the class.</li>
+          <li>Served as the principal coder and played a key role in explaining complex code to peers, enabling smooth collaboration and effective project delivery.</li>
+          <li>Demonstrated strong project management skills by completing the task within a month and delivering a functional and user-friendly flashcard application.</li>
+     
     technologies:
       - Node JS
       - Repl.it
