@@ -39,6 +39,9 @@ experiences:
     details:
       Assisted teacher during lunchtime GCSE Python club by explaining how to
       solve problems students were facing and setting programming challenges
+    technologies:
+      - Python
+      - Teaching
 - role: Maths class helper
     time: September 2022 - Present
     company: Watford Grammar School
@@ -47,6 +50,9 @@ experiences:
       students' understanding of the subject. Strong communication skills and
       passion for mathematics contributed to positive impact on students'
       academic performance.
+    technologies:
+      - Maths
+      - Tutoring
 awards:
   - name: Hobbies
     description:
