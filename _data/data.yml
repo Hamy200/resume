@@ -29,13 +29,13 @@ experiences:
       the dicom is a doppler or a non doppler
     highlights:
       - Successfully achieved 100% accuracy on the sorting of the images
-    company: Ultromics
     technologies:
       - Python
       - SCiKit learn
       - SVM
   - role: Programming Club assistant
     time: October 2022 - Present
+    company: Watford Grammar School
     details:
       Assisted teacher during lunchtime GCSE Python club by explaining how to
       solve problems students were facing and setting programming challenges
