@@ -9,17 +9,18 @@ header:
 summary: |
   <ul><li>Diligent and collaborative A-level computing student with problem-solving skills and a love for learning.</li></ul>
 education:
-  - degree: Studying 3 A Levels
+  - degree: Studying 3 A-levels
     university: Computing - Maths - Economics
     time: Watford Boys Grammar School
   - degree: Harvard Computer Science 
     university: Passed CS50 Course 10 Week Course
-      Inc. Computational Thinking, Programming in C, Python,
+    time: Computational Thinking, Programming in C, Python,
       Javascript, HTML and CSS
-  - degree: Watford Boys Grammar School
-    university: GCSEs grade A* (9) in Maths, Further Maths, Computer Science, Biology, 
-      Chemistry, Physics, Music. Grade A (8-7) in French, English Literature, 
+  - degree: GCSE Grade A* & As 
+    university: Grade A* (9) in Maths, Further Maths, Computer Science, Biology, 
+      Chemistry, Physics, Music<br>Grade A (8 & 7s) in French, English Literature, 
       English Language, History
+    time: Watford Boys Grammar School
 
 experiences:
   - role: AI and Python-focused Data Analytics Engineer
