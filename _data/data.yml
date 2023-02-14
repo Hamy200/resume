@@ -44,26 +44,24 @@ experiences:
       - VScode
       - Linux
       - Cloud (AWS)
+      - Google Docs
 
   - role:  Programming Club Assistant
     time: October 2022 - Present
     company: Watford Grammar School
     details: |
-      Assist teachers during lunchtime GCSE Python club by explaining how to
-      solve problems students were facing and setting programming challenges
+      Assist teachers in the lunchtime GCSE Python club by offering guidance and support to students with programming difficulties, teaching effective problem-solving techniques, and designing challenging programming exercises to enhance their skills and knowledge
     technologies:
       - Python
       - Teaching
       - Problem solving
+      - MS365 Powerpoint, Word, Excel
       
-  - role:  Maths class Helper
+  - role:  Maths Class Helper
     time: September 2022 - Present
     company: Watford Grammar School
     details: |
-      Volunteered as a maths tutor weekly for a year 7 class, improving
-      students' understanding of the subject. Strong communication skills and
-      passion for mathematics contributed to positive impact on students'
-      academic performance.
+      Volunteer as a weekly math tutor for a year 7 class, helping to improve their understanding of the subject through clear and effective communication. Utilize my passion for mathematics and strong communication skills to positively impact the students' academic performance and support their growth in the subject
     technologies:
       - Maths
       - Tutoring
