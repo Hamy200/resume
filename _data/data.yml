@@ -12,25 +12,25 @@ education:
   - degree: Studying 3 A Levels
     university: Computing - Maths - Economics
     time: Watford Boys Grammar School
-  - degree: Harvard
-    university: Harvard Computer Science Course - Completed CS50 10 Week Course
-      which included Computational Thinking, Programming in C, Python,
-      Javascript, HTML and CSS - Certificate ()
+  - degree: Harvard Computer Science 
+    university: Passed CS50 Course 10 Week Course
+      Inc. Computational Thinking, Programming in C, Python,
+      Javascript, HTML and CSS
   - degree: Watford Boys Grammar School
-    university: GCSEs - Maths 9 - Further Maths 9 - Computer Science 9 - Biology 9 -
-      Chemistry 9 - Physics 9 - Music 9 - French 8 - English Literature 7 -
-      English Language 7 - History 7
+    university: GCSEs grade A* (9) in Maths, Further Maths, Computer Science, Biology, 
+      Chemistry, Physics, Music. Grade A (8-7) in French, English Literature, 
+      English Language, History
 
 experiences:
-  - role: A.I python data analytics engineer
+  - role: AI and Python-focused Data Analytics Engineer
     time: July 2022 (Work Experience)
     company: Ultromics.com, Oxford
     details: |
-      Ultromics is an AI startup using digital health technology to pioneer the development of transformative heart failure diagnostics
-      - Worked in the Oxford offices, and resided nearby for the period
-      - Helped code an A.I program that classifies ECG scans based on whether the dicom is a doppler or a non doppler
+      Ultromics is an Artificial Intelligence (AI) startup using digital health technology to pioneer the development of transformative heart failure diagnostics
+      - Worked in the Oxford offices, and resided nearby for the work exerpience
+      - Helped code an AI program that classifies ECG scans based on whether the dicom is a doppler or a non doppler
       - Successfully achieved 100% accuracy on the sorting of the images
-      - I impressed the team so much that they asked me to continue the work over my summer holidays remotely and gave me a laptop
+      - Made a strong impression on the team, leading to an offer to continue the project remotely over the summer holidays with the use of a laptop supplied by the company
 
     technologies:
       - Python
@@ -49,6 +49,7 @@ experiences:
     technologies:
       - Python
       - Teaching
+      - Problem solving
       
   - role:  Maths class helper
     time: September 2022 - Present
@@ -61,15 +62,17 @@ experiences:
     technologies:
       - Maths
       - Tutoring
+      - Mind mapping
+      - Spaced repetition
 awards:
   - name: Health
     description: |
-      Kickboxing Martial Arts<br> Baseball (Hertfordshire club)<br> Regularly exercise at the gym for fitness<br>Preparing for Duke Of Edinburgh Gold Award (increasing endurance, strength through various activities)
+      Kickboxing Martial Arts<br> Baseball (Hertfordshire club)<br>Regular Gym Fitness <br>Duke Of Edinburgh Gold Award preparation (buidling endurance & strength)
   - name: Hobbies
     description: |
-       Trumpet Grade 5, working towards Grade 6<<br> Gaming, Podcasts<br>Programming, Learning Python, HTML & CSS, Javascript<br>Running a Minecraft server using Docker and gain experience in Cloud Virtual Machines, Docker containerization, and network configuration. <br> Created and maintained the server for friends and family to play on, whilst ensuring high availability and low latency for an optimal gaming experience
+       Trumpet Grade 5, working to Grade 6<<br> Gaming, Podcasts<br>Programming, Learning Python, HTML & CSS, Javascript<br>Run a Minecraft server using Docker containerization across AWS, GCP & Oracle Cloud Virtual Machines and VPC networking<br>Create & maintain the server for friends & family to play on, whilst ensuring high availability & low latency/jitter for an optimal gaming experience
   - name: Volunteering
     description: |
-       In-school teaching, Code Clubs
+       In-school teaching, Code Clubs, Fatimid Foundation charity website and IT help
 
 
