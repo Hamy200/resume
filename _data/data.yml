@@ -7,7 +7,7 @@ header:
   github: Hamy200
   codewars: Hamy200
 summary: |
-  <ul><li>Diligent and collaborative computing student with problem-solving skills and a love for learning.</li></ul>
+  <ul><li>Diligent and collaborative A-level computing student with problem-solving skills and a love for learning.</li></ul>
 education:
   - degree: Studying 3 A Levels
     university: Computing - Maths - Economics
@@ -21,18 +21,6 @@ education:
       Chemistry 9 - Physics 9 - Music 9 - French 8 - English Literature 7 -
       English Language 7 - History 7
 experiences:
-  - role: Maths class helper
-    time: September 2022 - Present
-    details:
-      Volunteered as a maths tutor weekly for a year 7 class, improving
-      students' understanding of the subject. Strong communication skills and
-      passion for mathematics contributed to positive impact on students'
-      academic performance.
-  - role: Programming Club assistant
-    time: October 2022 - Present
-    details:
-      Assisted teacher during lunchtime GCSE Python club by explaining how to
-      solve problems students were facing and setting programming challenges
   - role: A.I python data analytics engineer
     time: July 2022 (Work Experience)
     company: Ultromics
@@ -41,10 +29,24 @@ experiences:
       the dicom is a doppler or a non doppler
     highlights:
       - Successfully achieved 100% accuracy on the sorting of the images
+    company: Ultromics
     technologies:
       - Python
       - SCiKit learn
       - SVM
+  - role: Programming Club assistant
+    time: October 2022 - Present
+    details:
+      Assisted teacher during lunchtime GCSE Python club by explaining how to
+      solve problems students were facing and setting programming challenges
+- role: Maths class helper
+    time: September 2022 - Present
+    company: Watford Grammar School
+    details:
+      Volunteered as a maths tutor weekly for a year 7 class, improving
+      students' understanding of the subject. Strong communication skills and
+      passion for mathematics contributed to positive impact on students'
+      academic performance.
 awards:
   - name: Hobbies
     description:
