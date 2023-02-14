@@ -32,7 +32,9 @@ experiences:
       - Worked daily in the Oxford offices, moved to Oxford & resided nearby for the work period
       - Helped code an AI program that classifies ECG scans based on whether the dicom is a doppler or a non doppler
       - Successfully achieved 100% accuracy on the sorting of the images
+      - Presented and explained the program to one of the heads of the AI department 
       - Made a strong impression on the team, leading to an offer to continue the project remotely over the summer holidays with the use of a laptop supplied by the company
+      
     technologies:
       - Python
       - SCiKit learn
@@ -45,6 +47,19 @@ experiences:
       - Cloud (AWS)
       - Google Docs
       - M365 Powerpoint, Word, Excel, Teams
+      
+  - role:  Peer Project Website 
+    time: January 2023
+    company: Watford Grammar School
+    details: |
+      Played a leading role in a group progamming project. Designed and developed a Node JS Application and presented it to the class. The task was to create an flashcard application for GCSE students. Was the principal coder and helped explain the code written to peers.
+      
+    technologies:
+      - Node JS
+      - Repl.it
+      - Javascript
+      - HTML
+      - CSS
 
   - role:  Programming Club Assistant
     time: October 2022 - Present
