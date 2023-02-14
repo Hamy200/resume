@@ -20,11 +20,12 @@ education:
     university: GCSEs - Maths 9 - Further Maths 9 - Computer Science 9 - Biology 9 -
       Chemistry 9 - Physics 9 - Music 9 - French 8 - English Literature 7 -
       English Language 7 - History 7
+
 experiences:
   - role: A.I python data analytics engineer
     time: July 2022 (Work Experience)
     company: Ultromics
-    details:
+    details: |
       Helped make an A.I program that classifies ECG scans based on whether
       the dicom is a doppler or a non doppler
     highlights:
@@ -33,19 +34,21 @@ experiences:
       - Python
       - SCiKit learn
       - SVM
-  - role: Programming Club assistant
+
+  - role:  Programming Club assistant
     time: October 2022 - Present
     company: Watford Grammar School
-    details:
+    details: |
       Assisted teacher during lunchtime GCSE Python club by explaining how to
       solve problems students were facing and setting programming challenges
     technologies:
       - Python
       - Teaching
-- role: Maths class helper
+      
+  - role:  Maths class helper
     time: September 2022 - Present
     company: Watford Grammar School
-    details:
+    details: |
       Volunteered as a maths tutor weekly for a year 7 class, improving
       students' understanding of the subject. Strong communication skills and
       passion for mathematics contributed to positive impact on students'
@@ -55,7 +58,7 @@ experiences:
       - Tutoring
 awards:
   - name: Hobbies
-    description:
+    description: |
       <ul>
       <li>Programming, Learning Python, HTML & CSS, Javascript</li>
 
