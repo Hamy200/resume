@@ -24,22 +24,27 @@ education:
 experiences:
   - role: A.I python data analytics engineer
     time: July 2022 (Work Experience)
-    company: Ultromics
+    company: Ultromics.com, Oxford
     details: |
-      Helped make an A.I program that classifies ECG scans based on whether
-      the dicom is a doppler or a non doppler
-    highlights:
+      Ultromics is an AI startup using digital health technology to pioneer the development of transformative heart failure diagnostics
+      - Worked in the Oxford offices, and resided nearby for the period
+      - Helped code an A.I program that classifies ECG scans based on whether the dicom is a doppler or a non doppler
       - Successfully achieved 100% accuracy on the sorting of the images
+      - I impressed the team so much that they asked me to continue the work over my summer holidays remotely and gave me a laptop
+
     technologies:
       - Python
       - SCiKit learn
       - SVM
+      - Statistics
+      - Machine Learning
+      - AI
 
   - role:  Programming Club assistant
     time: October 2022 - Present
     company: Watford Grammar School
     details: |
-      Assisted teacher during lunchtime GCSE Python club by explaining how to
+      Assist teachers during lunchtime GCSE Python club by explaining how to
       solve problems students were facing and setting programming challenges
     technologies:
       - Python
@@ -57,20 +62,14 @@ experiences:
       - Maths
       - Tutoring
 awards:
+  - name: Health
+    description: |
+      Kickboxing Martial Arts<br> Baseball (Hertfordshire club)<br> Regularly exercise at the gym for fitness<br>Preparing for Duke Of Edinburgh Gold Award (increasing endurance, strength through various activities)
   - name: Hobbies
     description: |
-      <ul>
-      <li>Programming, Learning Python, HTML & CSS, Javascript</li>
+       Trumpet Grade 5, working towards Grade 6<<br> Gaming, Podcasts<br>Programming, Learning Python, HTML & CSS, Javascript<br>Running a Minecraft server using Docker and gain experience in Cloud Virtual Machines, Docker containerization, and network configuration. <br> Created and maintained the server for friends and family to play on, whilst ensuring high availability and low latency for an optimal gaming experience
+  - name: Volunteering
+    description: |
+       In-school teaching, Code Clubs
 
-      <li>Running a Minecraft server using Docker, this hobby has allowed me to gain experience in server management, Docker containerization, and network configuration. I created and maintained the server for friends and family to play on, ensuring high availability and low latency for an optimal gaming experience</li>
 
-      <li>Currently preparing for Duke Of Edinburgh Gold Award (Increasing endurance, strength through various activities)</li>
-
-      <li>Trumpet Grade 5, working towards Grade 6</li>
-
-      <li>Kickboxing Martial Arts</li>
-
-      <li>Baseball (Hertfordshire club) </li>
-
-      <li>Going to the gym to improve overall fitness</li>
-      </ul>
