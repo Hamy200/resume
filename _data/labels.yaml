@@ -5,7 +5,7 @@ awards: Interests # default: Awards
 education: # default: Education
 experience: # default: Work Experience
 achievements: # default: Achievements
-technologies: # default: Technologies used
+technologies: Skills # default: Technologies used
 interests: # default: Interests
 language: # default: Language
 skills: # default: Skills &amp; Tools
