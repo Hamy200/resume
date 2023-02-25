@@ -86,12 +86,12 @@ experiences:
 awards:
   - name: Health
     description: |
-      Kickboxing Martial Arts<br> Baseball (Hertfordshire club)<br>Table Tennis<br>Regular Gym Fitness & Peloton<br>Duke Of Edinburgh Gold Award preparation (buidling endurance & strength)
+      Kickboxing<br>Martial arts<br> Herts Baseball Club<br>Table Tennis<br>Regular Gym Fitness & Peloton<br>Duke Of Edinburgh Gold Award preparation (resilience, teamwork, volunteering)
   - name: Hobbies
     description: |
        Trumpet Grade 5, working to Grade 6<br>Programming in Python, HTML/CSS & Javascript<br>Run a Minecraft Linux server using Docker containers in GCP & Oracle Cloud VMs & VPCs<br>Maintain the Minecraft server for gaming with friends & family, whilst ensuring high availability & low latency/jitter for an optimal gaming experience
   - name: Volunteering
     description: |
-       In-school teaching, Code Clubs, Fatimid Foundation charity website and IT help
+       In school teaching, Code Clubs, <a href="https://fatimiduk.org.uk/">Fatimid Foundation charity website</a> and IT help 
 
 
