@@ -29,10 +29,12 @@ experiences:
     company: <a href="https://www.ultromics.com">Ultromics</a>, Oxford
     details: |
       Ultromics is an Artificial Intelligence (AI) startup using digital health technology to pioneer the development of transformative heart failure diagnostics
-      - Worked daily in the Oxford offices, moved to Oxford & resided nearby for the work period
-      - Helped code an AI program that classifies Echo scans based on whether the dicom is a doppler or a non doppler
-      - Successfully achieved 100% accuracy on the sorting of the images
-      - Presented and explained the program to one of the heads of the AI department 
+      - Worked daily in the Oxford offices, lived nearby for the work period
+      - Internship in the AI & Computer Vision department
+      - Attended daily standup meetings and presented at the weekly department meeting
+      - Led the coding of an AI program that classifies heart ultrasound (echo) scans based on the presence or absence of Doppler imaging in the videos
+      - Successfully achieved 100% accuracy on the sorting of the echo videos
+      - Presented and explained the program to the co-lead of the AI & CV department
       - Made a strong impression on the team, leading to an offer to continue the project remotely over the summer holidays with the use of a laptop supplied by the company
       
     technologies:
@@ -42,18 +44,15 @@ experiences:
       - Statistics
       - Machine Learning
       - AI
-      - VScode
-      - Linux
-      - Cloud (AWS)
-      - Google Docs
+      - PyCharm
       - M365 Powerpoint, Word, Excel, Teams
       
-  - role:  Peer Project Website 
+  - role:  Peer Project Website  (https://replit.com/@Hamy200/Peer-Project-3-Node)
     time: January 2023
     company: Watford Grammar School
     details: |
       <ul>
-          <li>Led a group programming project to design and develop a Node JS Application aimed at GCSE students, resulting in a successful presentation to the class.</li>
+          <li>Led a group programming project to design and develop a Node JS application aimed at GCSE students, resulting in a successful presentation to the class.</li>
           <li>Served as the principal coder and played a key role in explaining complex code to peers, enabling smooth collaboration and effective project delivery.</li>
           <li>Demonstrated strong project management skills by completing the task within a month and delivering a functional and user-friendly flashcard application.</li>
      
@@ -68,7 +67,7 @@ experiences:
     time: October 2022 - Present
     company: Watford Grammar School
     details: |
-      Assist teachers in the lunchtime GCSE Python club by offering guidance and support to students with programming difficulties, teaching effective problem-solving techniques, and designing challenging programming exercises to enhance their skills and knowledge
+      Assist teachers in the lunchtime GCSE Python Club by offering guidance and support to students with programming difficulties, teaching effective problem-solving techniques, and designing challenging programming exercises to enhance their skills and knowledge
     technologies:
       - Python
       - Teaching
@@ -84,8 +83,6 @@ experiences:
     technologies:
       - Maths
       - Tutoring
-      - Mind mapping
-      - Spaced repetition
 awards:
   - name: Health
     description: |
