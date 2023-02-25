@@ -14,7 +14,7 @@ education:
       Chemistry, Physics, Music<br>Grade A (8 & 7s) in French, English Literature, 
       English Language, History
     time: Watford Boys Grammar School
-  - degree: Harvard Computer Science (cs50.harvard.edu)
+  - degree: Harvard Computer Science (<a href="cs50.harvard.edu">cs50.harvard.edu</a>)
     university: Passed the CS50 10 week course
     time: Computational Thinking, Programming in C, Python,
       Javascript, HTML and CSS
