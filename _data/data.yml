@@ -14,7 +14,7 @@ education:
       Chemistry, Physics, Music<br>Grade A (8 & 7s) in French, English Literature, 
       English Language, History
     time: Watford Boys Grammar School
-  - degree: Harvard Computer Science 
+  - degree: Harvard Computer Science (cs50.harvard.edu)
     university: Passed the CS50 10 week course
     time: Computational Thinking, Programming in C, Python,
       Javascript, HTML and CSS
@@ -47,7 +47,7 @@ experiences:
       - PyCharm
       - M365 Powerpoint, Word, Excel, Teams
       
-  - role:  Peer Project Website  (https://replit.com/@Hamy200/Peer-Project-3-Node)
+  - role:  <a href="https://replit.com/@Hamy200/Peer-Project-3-Node">Peer Project Website</a>
     time: January 2023
     company: Watford Grammar School
     details: |
