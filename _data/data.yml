@@ -28,11 +28,11 @@ experiences:
     time: July 2022 (Work Experience)
     company: <a href="https://www.ultromics.com">Ultromics</a>, Oxford
     details: |
-      Ultromics is an Artificial Intelligence (AI) startup using digital health technology to pioneer the development of transformative heart failure diagnostics
+      Ultromics is an Artificial Intelligence (AI) startup analysing heart ultrasound (echo) scans to develop better ways to diagnose heart failure
       - Worked daily in the Oxford offices, lived nearby for the work period
       - Internship in the AI & Computer Vision department
       - Attended daily standup meetings and presented at the weekly department meeting
-      - Led the coding of an AI program that classifies heart ultrasound (echo) scans based on the presence or absence of Doppler imaging in the videos
+      - Led the coding of an AI program that classifies echo scans based on the presence or absence of Doppler imaging in the videos
       - Successfully achieved 100% accuracy on the sorting of the echo videos
       - Presented and explained the program to the co-lead of the AI & CV department
       - Made a strong impression on the team, leading to an offer to continue the project remotely over the summer holidays with the use of a laptop supplied by the company
@@ -47,7 +47,7 @@ experiences:
       - PyCharm
       - M365 Powerpoint, Word, Excel, Teams
       
-  - role:  <a href="https://replit.com/@Hamy200/Peer-Project-3-Node">Peer Project Website</a>
+  - role:  Peer Project Website (<a href="https://replit.com/@Hamy200/Peer-Project-3-Node">replit.com/@Hamy200/Peer-Project-3-Node</a>)
     time: January 2023
     company: Watford Grammar School
     details: |
