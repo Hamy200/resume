@@ -63,7 +63,7 @@ experiences:
       - HTML
       - CSS
 
-  - role:  Computer Network and Security Operations Intern
+  - role: Computer Network and Security Operations Intern
     time: July 2023
     company: CBS Accountants
     details: |
@@ -74,11 +74,11 @@ experiences:
       </ul>
      
     technologies:
-      - Python 
+      - Python
       - Django
-      - Nmap 
+      - Nmap
       
- -  role:  IT Assistant
+  - role: IT Assistant
     time: August 2023 
     company: W3RT
     details: |
