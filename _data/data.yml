@@ -63,6 +63,43 @@ experiences:
       - HTML
       - CSS
 
+  - role:  Computer Network and Security Operations Intern
+    time: July 2023
+    company: CBS Accountants
+    details: |
+      <ul>
+          <li>Conducted a cybersecurity audit and learnt about processing sensitive data</li>
+          <li>Identified and remediated security and network issues by following the IASME Cyberessentials checklist</li>
+          <li>Investigated recreation of complex Excel spreadsheets as a web portal</li>
+      </ul>
+     
+    technologies:
+      - Python 
+      - Django
+      - Nmap 
+      
+ - role:  IT Assistant
+    time: August 2023 
+    company: W3RT
+    details: |
+      Used Python to:
+       <ul>
+          
+          <li>Automate the consolidation and validation of the global address list by comparing the staff lists on Excel.  </li>
+          <li>Merge the staff list to include emergency contacts  </li>
+          <li>Associate devices with the staff list and audtit for Norton Antivirus installation </li>
+          <li>Completed 2 short courses from Educare on GDPR and cybersecurity.  </li>
+         
+      </ul>
+    
+    technologies:
+      - Python
+      - Excel
+      - Microsoft Exchange
+      - Microsoft Intune
+      
+    
+
   - role:  Programming Club Assistant
     time: October 2022 - Present
     company: Watford Grammar School
@@ -93,5 +130,14 @@ awards:
   - name: Volunteering
     description: |
        In school teaching, Code Clubs, <a href="https://fatimiduk.org.uk/">Fatimid Foundation charity website</a> and IT help 
+  - name: Coding Projects
+    description: |
+      Applying passion for baseball to A-level project by creating application that uses machine learning to analyze and improve baseball skills of team
+      <br>
+      Utilizing Python for pose estimation to track player movements, React to build application in structured manner, VSCode for development environment, and GitHub for version control
+
+ 
+
+       
 
 
