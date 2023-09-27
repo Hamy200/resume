@@ -78,18 +78,16 @@ experiences:
       - Django
       - Nmap 
       
- - role:  IT Assistant
+ -  role:  IT Assistant
     time: August 2023 
     company: W3RT
     details: |
       Used Python to:
        <ul>
-          
           <li>Automate the consolidation and validation of the global address list by comparing the staff lists on Excel.  </li>
           <li>Merge the staff list to include emergency contacts  </li>
           <li>Associate devices with the staff list and audtit for Norton Antivirus installation </li>
           <li>Completed 2 short courses from Educare on GDPR and cybersecurity.  </li>
-         
       </ul>
     
     technologies:
